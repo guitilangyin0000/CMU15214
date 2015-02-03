@@ -1,0 +1,26 @@
+package edu.cmu.cs.cs214.rec08;
+
+import javax.swing.SwingUtilities;
+
+public class Main {
+
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(new Runnable() {
+            @Override
+            public void run() {
+                createAndShowGameBoard();
+            }
+        });
+    }
+
+    private static void createAndShowGameBoard() {
+        // TODO: Start implementing your GUI here
+    	
+    	// create game core and do necessary setup, such as adding players.
+    	
+    	// create game ui and setup. You will need to write your own
+    	// gui classes under the "gui" package
+    	
+    }
+
+}

@@ -1,0 +1,1 @@
+Beverage and ingredient arguments should be one word (example: redtea). If it is not one word, the program will not run properly. Capitalization of names are not important as all input is shifted to lower case in the program. Incorrect or improper names and sizes will give an invalid/name does not exist error.

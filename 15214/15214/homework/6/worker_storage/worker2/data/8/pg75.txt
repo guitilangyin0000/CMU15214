@@ -1,0 +1,3393 @@
+﻿The Project Gutenberg EBook of Email 101, by John Goodwin
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Email 101
+
+Author: John Goodwin
+
+Posting Date: February 9, 2012 [EBook #75]
+Release Date: July 17, 1993
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EMAIL 101 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMAIL 101 by John Goodwin, this is an Alpha test version, your
+suggestions will be included in the Beta test versions, and in
+the final editions.
+
+
+This rough version is missing 8 out of 28 chapters and 1 out of 5
+appendices.
+
+Copyright (c) 1993 by John E. Goodwin.  All Rights Reserved.
+
+You may make and distribute verbatim copies of these course notes for
+non-commercial purposes using any means, provided this copyright notice
+is preserved on all copies.
+
+For information on taking the internetworking course, contact
+
+     John Goodwin (jgoodwin@adcalc.fnal.gov)
+     P.O. Box 6022
+     St. Charles, IL  60174, U.S.A.
+1
+
+<title> E-MAIL 101
+
+If you like those little machines that give you 24 hour access to your
+bank account, you'll love the Internet.  I suppose there are still
+people who, given a choice, will go to a drive-through teller just so
+they can deal with a "live person" instead of a machine.  But even those
+people will admit that it is nice to have the option of doing things for
+yourself, on your own schedule, anywhere.  Do you remember what it was
+like before automatic tellers?  Banks closed at 3 p.m. on weekdays.
+Each Saturday you had to guess how much money you would need for the
+following week.  If you were wrong you had to cash a check at a food
+store (and maybe buy something you didn't want).  And if you were out of
+town?  Well, there were always credit cards.
+
+We don't do that anymore.  I think many people go to the automatic
+teller because they like the privacy of handling their own business
+without having to explain it all to someone else.  And we like the
+illusion of having access to our "own" account anytime we want.
+There are disadvantages to using an automatic teller card too--you may
+have to pay a fee each month or even for each transaction--and you have
+to remember to deduct those fees from your account balance or you will
+bounce checks.  But I'll bet you feel pretty competent using an
+automatic teller and don't lose much sleep worrying over the fees.
+
+This course is designed to give you that same sense of freedom and
+competence with the Internet that you have with an automatic teller
+machine or the telephone.  With a home computer, a modem, and
+communications software, you can connect to other computers over the
+phone line to exchange electronic mail (E-mail), trade files, or search
+for information.  Many of those computers are connected to the worldwide
+network called the Internet.  Some few of them will--for a fee--let
+*you* connect to the Internet.  From there you can dial any of 900,000
+or more computers, send E-mail to any of 25 million people, and access
+hundreds of free, informative services.
+
+In short, you are on the verge of a new method of communicating with
+people and machines called "internetworking."  Internetworking lets you:
+
+  o Avoid playing phone tag;
+
+  o Sign up to receive special interest electronic newsletters and
+journals;
+
+  o Access hundreds of information services and document collections in
+exactly the same way--no need to have hundreds of sets of different
+instructions or hundreds of (expensive) special purpose software
+packages;
+
+  o Find and communicate with other people who share your interests.
+
+Internetworking is an essential skill for the '90s.  Your children will
+find it as common as viewing television or using the telephone.  It
+still has a few rough edges--but we'll explain those.
+
+There is actually no single network owned by one company called the
+Internet.  Instead, many medium-sized networks have grown together to
+create a "phone system" that connects together nearly a million
+computers.  Many hundreds of these computers allow some form of public
+access.  You can get the latest news or weather, download information
+about Government programs or high-tech products, search on-line library
+catalogues and databases, download free software, and do many other
+things, with little or no monetary investment beyond the cost of your
+home computer.
+
+Using the Internet need not be expensive:  you can get on the Internet
+for as little as $10 a month if you own (1) a home computer, (2) a $50
+modem, and (3) some communications software (under $100).  There are
+more expensive ways to connect to the Internet, of course.  These ways
+make sense for businesses or organizations that make heavy use of the
+network.  But in this course we will discuss methods that cost in the
+$10-$40/month range.  These methods are suitable for exploring the net
+after hours and for casual use.  We will provide some basic information
+about more expensive methods of connecting (Appendix C) so that you can
+make informed decisions if your networking needs should increase in the
+future.
+
+Internetworking well means mastering a whole host of skills--connecting
+two computers together using the Internet is just the beginning.  You
+have to learn methods for transferring information from the remote
+computer to your own.  This is a complex task that may involve using a
+file transfer protocol and compression techniques.
+
+Because the information world is so vast, your biggest problem will most
+likely not be connecting to the Internet.  It will be finding what you
+want.  Thus, this course covers not only the mechanics of making a
+connection and transferring files, but techniques for locating material
+as well.  And of course you will want to be savvy about the costs of
+different connection methods.  This means estimating whether it will
+cost you more per Megabyte to transfer the information or to have it
+faxed to you by a friendly librarian.
+
+This course is intended for the general public--students,
+businesspersons, librarians, teachers, writers, journalists--in fact
+anyone who needs to find information and communicate with others.
+Whether you are researching a paper, writing an article, or trying to
+get technical information on a product, you will use these techniques
+over and over.
+
+Chapters marked with an asterisk are omitted from this edition.
+
+
+COURSE CONTENTS
+
+1 : The Past and the Future of Internetworking
+
+2 : What Is the Internet?
+
+3 : How Do I Connect to the Internet?
+
+4 : Who Pays for the Internet?
+
+5 : Internet Basics
+
+6 : Getting on the Internet Step by Step
+
+7 : Programs and Pictures
+
+8 : File Compression Methods for Faster Transfer
+
+9 : What to Do When You Only Have E-mail
+
+10 : Employee Development:  How to Get Your Employees Internetworking
+
+
+Part II  Special Concerns
+
+11 : Special for Businesses
+
+12 : Special for Students and their Parents
+
+13 : Special for Writers, Journalists, Publishers, and Printers
+
+14 : Special for Elementary and High School Teachers
+
+15 : Special for Librarians
+
+16 : Special for Scholars
+
+17 : Special for Churches, Synagogues, and Mosques
+
+
+Part III  Research, Organization, and Writing
+
+18 : Research Methods I:  Basic Navigation Methods
+
+*19 : Research Methods II:  Usenet Newsgroups
+
+20 : Research Methods III:  Advanced Techniques
+
+*21 : Organizing Information
+
+*22 : Information Structures
+
+*23 : Boolean Logic
+
+*24 : Writing for an Internetworked World:  Basic Problems
+
+*25 : Writing for an Internetworked World:  Getting Through to your
+Audience
+
+
+Part IV  Resources
+
+*26 : The Internet Address Book
+
+27 : Bibliography
+
+*28 : Glossary
+
+Appendix A.  Computer Hints for the *Really* Green
+
+Appendix B.  Using a Modem
+
+*Appendix C.  Technical Details of an Internet Connection
+
+Appendix D.  Just Enough UNIX
+
+Appendix E.  The Ten Best Things To Get If You Only Have E-Mail
+
+
+
+<Chapter 1>  The Past and Future of Internetworking
+
+There is an old fashioned way to connect with other computers and share
+information and there is a modern way.  It is helpful to compare the two
+methods briefly in order to make contact with methods you may already
+know and to show off the advantages of using the Internet.
+
+The old fashioned (ca. 1980) method of making contact with other
+computers is through a bulletin board service (BBS).  Bulletin board
+services grew up in the late 70s as a method for sharing software,
+talking, playing games, etc. with a personal computer.  They range in
+size from small special interest Bulletin Boards with a local following
+to giant national boards like CompuServe, GEnie, and The Source.  You
+access a bulletin board with a modem and communication software by
+dialing a telephone number.  Of course, if you don't live in the local
+area of the BBS you have to use a long distance carrier.  This may add a
+couple dollars per hour to the connect fee.
+
+The basic services offered by a Bulletin Board and by the Internet are
+similar:
+
+  (1)  Access to a host computer (Internet TELNET command)
+
+  (2)  File transfer capability (Internet FTP command)
+
+  (3)  The ability to contact other BBS members individually (Internet
+E-mail)
+
+  (4)  The ability to post messages for general consumption in any of
+several catagories. (Usenet Newsgroups)
+
+The difference is that whereas each BBS has its own dialup procedure,
+menu interface, file transfer methods, billing policies, and so on, THE
+INTERNET USES ONE METHOD FOR ALL COMPUTERS IN THE WORLD.  The savings in
+terms of the "learning curve" is staggering.  Once you know how to use
+anonymous FTP you know how to get information from *hundreds* of
+providers.  It is like the difference between using the postal service
+or using a special courier for each person you write a letter to.  Once
+you know how to address the envelope and put the stamp on, you can write
+anyone.
+
+The Internet has the added savings that any communications software you
+buy for it works with all providers.  You do not have to buy (or
+customize) special software for each information provider.  Thus you can
+use one familiar graphical user interface ("windows" program) to connect
+with any computer.  The usual situation where you have to buy a special
+"client" program to connect to each kind of "server" is replaced with a
+situation in which you have a single program that any "server" out there
+has to comply with.  This standardization is the main advantage of using
+the Internet.
+
+Bulletin Boards are still around.  In fact, one of the easiest ways to
+connect to the Internet is through a national bulletin board service.
+One disadvantage of this method is that--as of this writing--national
+BBS's like CompuServe offer only E-mail.  You can't FTP or Telnet from
+them.  And they often charge per message for E-mail, so using them can
+be quite expensive.  There are better ways.
+
+
+<Chapter 2>  What is the Internet?
+
+The best way to think of the Internet is as a communications medium like
+the Telephone, Television, or the Postal Service.  Using the Internet
+you can send a any written text by E-mail.  This is rather like mailing
+a letter and having it arrive in seconds--three days in the most
+backwards parts of the world.  Using a special protocol called File
+Transfer Protocol you can transfer text files that are too long to mail
+(over about 50 pages) or even transfer graphics and programs.  If E-mail
+is the equivalent of "talking" to a person, then Telnet, the third main
+Internet service, is equivalent to telephoning a computer.  As long as
+you know the password for logging on to a computer, you can access and
+search any of nearly a million computers.  Details of E-mail, FTP, and
+Telnet are contained in Chapter 5, Internet Basics.
+
+This chapter puts the Internet into context.  Rather than concentrating
+on the trees that will occupy us in later chapters, it paints a big
+picture of the computing world in which the Internet has evolved.  When
+you pick up a telephone receiver you know you can dial households,
+businesses, or government offices.  You can dial 800 numbers or 411 for
+information.  You know how to get the time or weather, get your credit
+card balance, or leave a message on an answering machine.  In short, you
+have a good idea of what might possibly be at the other end of the line
+and a great deal of experience with negotiating their various
+intricacies.  But you are new to the Internet.  Some sense of "what's
+out there" in this new world is necessary to avoid getting lost in the
+thickets of acronyms, numbers, and procedures developed by different
+vendors.
+
+As we approach the middle of the 90s, the normal working situation in
+offices is approaching something like this:  there is a Local Area
+Network (LAN) connecting together personal computers, workstations, and
+mainframes of different makes.  The LAN (pronounced like "land" without
+the "d") may be connected to other LANs as part of a Wide Area Network
+(WAN).  The WAN may or may not be part of the global network called the
+Internet.  In colleges, universities, and research laboratories it
+likely is part of the Internet; in the commercial world, except for a
+few high-tech companies, it likely is not.  But the difference between
+academia and the commerical world is rapidly becoming blurred.
+
+In addition to the LANs and WANs there are many, many home and office
+computers that *could* be part of the global network using a modem-to-
+host connection.  These computers can be the portable computers of
+outside salespersons connecting to the central office to file a report,
+a computer in a home-operated desktop publishing company connecting
+briefly to the Internet to get a graphic for a newsletter, or a parent
+sending E-mail to their child at college.
+
+
+<Section 2.1>  Getting Over Shell-Shock
+
+Let's face it.  Not many members of the public--even the computer
+literate public-are on the Internet.  There are three reasons that using
+the Internet for the first time can be rather intimidating, even though
+it is actually rather simple to use, when you get down to the nitty-
+gritty of internetworking:
+
+  o  Getting on to the Internet can be a little bit complicated;
+
+  o  The capability of logging on to computers you've never used before
+by its very nature means facing unfamiliar--and hence uncomfortable--
+situations; and
+
+  o  The world is a very big place.
+
+I like to think of the first problem--getting on to the Internet--by
+remembering what it was like using an "alternative" long distance
+service before the breakup of the Bell monopoly.  People who used the
+alternative carriers had to dial all sorts of access codes--very often a
+local access number, a credit card number, a security code, *and* the
+number of the party they were calling.  They knew that whatever came
+after that was going to be easier.
+
+That's what getting on the Internet is like.  You may have to dial a
+local access number, get your modem settings right, and type the right
+magic combination of words; but after all that, actually *using* the
+Internet is simple.  We'll talk you through the initial steps--after a
+while (and some frustration) it will be as unconscious as unlocking your
+front door or tuning a television set.
+
+The second problem is a little more substantial.  Using the Internet,
+you can get yourself into situations that are, well, experimental.
+Because the Internet gives you the freedom to "go anywhere" and "do
+anything"--at least if you know the passwords--you can uncover strange
+incompatibilities and unfamiliar systems.  I call this experience "shell
+shock".  At some point you will likely find yourself face to face with a
+computer program that expects you to type a command you don't happen to
+know.
+
+You can mostly avoid such situations by only trying things about which
+you have good information.  The situation is not much different from
+using a telephone:  if you stick to well-worn paths like dialing local
+numbers or simple long distance calls, you will have little trouble; but
+if you start dialing other countries or special numbers you may be in
+for a surprise or two.
+
+When you do log on to a new (previously unknown) computer, you can
+expect to come face to face with something called a "shell prompt".
+Shell prompts look like this:
+
+     %        (or some other obscure symbol, like a dollar-sign)
+
+or this:
+
+     mail>    (a favourite--means you're in some sort of mail program)
+
+or like this:
+
+     prez23:
+
+(means 23rd command since you logged into computer "prez").
+
+A prompt means the other computer expects you to type a command for its
+"shell", or "command interpreter".  The shell is the outer layer that
+you, the user, interact with.
+
+Two other types of "user interfaces" you might encounter are:
+
+  o  menu systems that give you choice of numbers
+
+  o  "window" systems or graphical user interfaces (GUIs, pronounced
+"gooey").
+
+Menu systems are popular on bulletin board services, and usually present
+no problem to the novice.  Their weakness is that they get cloying after
+about five minutes.  Most menu systems that are designed to be used for
+that length of time or longer have a "command mode", where you get--you
+guessed it--a shell prompt.
+
+Even windowing systems (you know if you have one of these) very often
+give you a window that "emulates a terminal", i.e. that gives you a
+shell prompt inside.
+
+So, you see, in each of the three common user interfaces--command line,
+menu-driven, or graphical user interface--you will likely encounter, at
+some time in your life, a shell prompt.  Advice on things that will
+likely work to get you started is given here and in Appendix A.  Some
+experience of other kinds of computers, especially computers that use
+the UNIX operating system is useful.  Some tips about using UNIX and
+other operating systems you may not have encountered before is given in
+Appendix D.
+
+If you do get stuck, whether by being experimental or just by accident,
+it is helpful to remember a few points:
+
+  o  You can always disconnect from a remote service by using your
+communications software to "hang up".
+
+  o  If the computer gives you a strange symbol like a percent sign or a
+dollar sign and just sits and stares at you, you can try "help" or "?"
+to try to find out what the computer expects, or else try "exit",
+"quit", "bye", "logoff", or something similar, to return to where you
+were before.
+
+  o  Many times, when you log on to a system, you will get instructions
+on how to get further help or how to "escape" back to your own system.
+You should remember these or write them down!
+
+  o  As a last resort, exit the communications program (and all other
+active programs) and shut off your computer, turn off your modem, and
+disconnect it from the phone line.  Be sure to do these steps in the
+order prescribed.  It is unwise (though tempting) to simply turn your
+computer off and on, or to pull the plug on your modem with your
+computer running.
+
+More suggestions for the inexperienced are given in Appendix A.
+
+
+The final hurdle to using the Internet is that the world, even the world
+of the Internet, is indeed a very large place.  When using the Internet
+you have to decide:
+
+  o  where to go;
+
+  o  what information you want (and where it might be); and
+
+  o  how to get to it (and get it back home intact).
+
+For a system as vast as the Internet, these are hard decisions.  Often,
+the only strategy that works is to explore and try different things.
+This course is designed to get you over the initial hurdles, give you a
+fair grounding in methods that work, and point you in the right
+direction.  The exploration is up to you.  As an initial orientation, we
+describe the "three worlds of the known Internet" in the next section.
+
+
+<Section 2.2>  The Three Worlds of the Known Internet
+
+The Internet, like ancient Gaul, is divided into three parts.  These
+parts are not so much territories as worlds, each with their own sets of
+assumptions, favorite dialects, and favored equipment.  We may
+conveniently refer to them as the "PC world", the "UNIX world", and the
+"Mainframe world".  Here's a dossier on each of the three worlds:
+
+     World:  Personal Computer (PC)
+     Typical Equipment:  IBM PC and clones (85%) , Macintosh (15%)
+     Conventional Operating Systems:  MS-DOS, OS/2
+     Windowing Systems:  Windows, MacOS
+     Typical Size:  PC ($1k to $5k typical; few $100 used)
+     Clientele:  Mixed--Business, Home users, just about everybody
+
+     World:  (mostly UNIX) workstation
+     Typical Equipment:  Sun Workstation, VAXStations, other vendors
+     Conventional Operating Systems:  UNIX (two major dialects), VMS
+     Windowing System:  X Windows
+     Typical Size:  Workstation ($5k and up)
+     Clientele:  Engineering/Scientific users; more and more businesses
+
+     World:  Mainframe or Minicomputer
+     Typical Equipment:  IBM (various), Digital Equipment VAXes
+     Conventional Operating Systems:  VM, VMS, UNIX
+     Windowing Systems:  X Windows, if available
+     Typical Size:  Minicomputer or Mainframe ($10k to millions)
+     Clientele:  Big Business, Universities, Government
+
+The neat picture of three worlds is distorted somewhat by a tendency for
+each of the worlds to have two (or a few) major options, either in
+choice of equipment, operating system, or vendor.  So, for example, the
+PC world is split into two camps, the MS-DOS people and the Mac people.
+Similarly, the UNIX world is split into the "BSD" workstations and
+"System V" (i.e. "5") workstations.
+
+The three worlds are reflected somewhat in networking.  The Internet is
+dominated by minicomputers and workstations running UNIX and VMS, with
+an ever increasing influx of PCs running MS-DOS and Macs.  Machines
+running other operating systems often put a "UNIX-like" foot forward, so
+the user can almost believe he or she is dealing with UNIX machines.
+There is a certain sense that the UNIX software is the standard for the
+Internet.  Software tends to appear on UNIX machines first and then be
+"ported" to other machines.
+
+What makes it possible for all these disparate machines to talk to each
+other is the "Internet Protocol" (known more formally as TCP/IP, for
+Transport Control Protocol/Internet Protocol).  TCP/IP can be thought of
+as a set of rules for two computers to use when they communicate with
+each other, even if they are not from the same vendor.
+
+We are used to thinking of computer systems as having "software" and
+"hardware", but it is closer to the truth to say that complicated
+systems like the Internet have many levels--in the case of the Internet
+as many as seven--ranging from "very software" to "very hardware".  Each
+level has its own set of rules, called its protocol.  The TCP/IP
+protocol belongs to two of the middle levels.  At the moment, the most
+common protocol for the two most "very hardware" levels is "Ethernet"
+(looks rather like the coaxial cable used for cable TV), while the "very
+software" levels are completely dependent on the vendor.  In fact, it is
+this profusion of levels which lets the Internet work on just about any
+kind of hardware and with software from many different vendors.
+
+Anyway, the Internet grew up as several medium-sized networks, all
+having diffent "very hardware" and "very software", but using the TCP/IP
+protocol for their middle layers, were connected together.  Two of the
+first, and biggest, nets to adopt the Internet Protocol were ARPAnet--
+Internet was first designed for this one--the network for what used to
+be called DARPA (the Defense Advanced Research Projects Agency of the
+U.S. Department of Defense), and NSFnet, a network connecting
+universities and government laboratories for the U.S. National Science
+Foundation.  These and other large networks form the "backbone" of the
+Internet.  But today there are hundreds of smaller nets hooked on to the
+backbones.
+
+There *are* big networks that don't use TCP/IP.  For example, in the
+context of IBM mainframes at large universities and research
+institutions, BITnet (The "Because It's Time" Network) emerged.  This
+large worldwide network does not use the Internet protocol.  BITnet can
+be reached from the Internet through special translators called
+gateways, but it is definitely a different network.  Occasionally one
+encounters problems that can be traced to this fact.
+
+
+<Section 2.3>  The Future of the Internet
+
+The future of any technology is difficult to forcast, and I do not
+profess to know what the future holds for the Internet.  Some
+predictions that various forcasters have made for internetworking (and
+telecommunications in general) are:
+
+  o  A proposal for a data "superhighway" called the NREN (National
+Research and Education Network) will pass the U.S. Congress.  This is an
+upgrade for the Internet.
+
+  o  Commercial use of the Internet will become more common and new
+schemes for charging for its use will emerge.
+
+  o  The Internet will be handed by the government over to AT&T and the
+other "telecoms", who will charge so much to access it that the whole
+scheme will collapse.
+
+  o  Optical Fiber will replace Coaxial Cable (Ethernet protocol) as the
+most common standard for LANs.
+
+  o  The Internet will enter the home over ordinary phone lines.
+
+  o  The Internet will enter the home over existing Cable TV coaxial
+cable.
+
+  o  The Internet will enter the home through newly strung optical fiber
+as part of a unified system for Telephony, Cable TV, and the data
+communication, using [insert your favorite protocol here] as a standard.
+
+  o  Personal Computers will replace telephones, answering machines,
+stereos, CD players, and VCRs--maybe even TV!--as a single, universal
+device for home use.  Sounds like a good thing to connect to the NREN.
+
+  o  Computer and telephone technology will become so intertwined that
+it is hard to tell the difference.  One product, already on the market,
+is described as "[a handheld] alphanumeric pager, an XT-compatible
+computer with a backlit screen and PCMCIA Type III slot, a fax/modem, a
+cellular and land-line phone, and a voice recorder"!
+
+You are welcome to believe all or none of these predictions.
+
+
+<Chapter 3>  How Do I Connect To the Internet?
+
+Connecting to the Internet involves several steps:
+
+  (1) Getting your modem and communications software working together
+
+  (2) Connecting to a provider over the phone lines (or a LAN)
+
+  (3) Using Internet services
+
+For the first step you will have to rely on the manuals that came with
+your modem and software.  Appendix B contains a discussion of some of
+the obscurer terminology associated with modem settings.  You might want
+to read it if your manual is not well written.
+
+Actually, you do not have to know about the second step in great detail.
+Mostly it is a matter of knowing enough to intellegently choose a
+provider.  Each provider will have a specific set of steps--modem
+settings, access numbers, passwords, etc.--that you need to follow in
+order to get from you to the provider.  Don't lose hope!  Once you get
+there you've finished the hardest part.  Chapter 6 contains very
+explicit instructions for connecting to one particular service, DELPHI.
+
+Step 3 is the subject of the rest of this course--what you can do once
+you're on.  The basics are discussed in the next chapter.
+
+
+<Section 3.1>  Connection Methods
+
+In theory, there are three ways to connect to the Internet from a
+personal computer or workstation:
+
+  (1) Your PC may have a direct connection.  This means that it is part
+of a Local Area Network (LAN) that is in turn connected to one of the
+component Wide Area Networks of the Internet.  Your computer will have
+its own Internet Protocol (IP) Address.  This type of connection is
+common in offices, especially of high-tech firms, but definitely not for
+home use.
+
+  (2) You may have a connection to a "host" computer that is directly
+connected to the net.  If you can use a modem to connect your home PC to
+the mainframe at the office and the mainframe is on the net, then you
+can get an Internet connection that way.  But what if your office
+doesn't have a mainframe on the net?  You can still subscribe to a
+service that makes a host computer available to the public.  This is
+presently the cheapest and most common method for public access to the
+net.
+
+  (3) There is a connection method in between cases (1) and (2) called a
+Serial Line Internet Protocol (SLIP) connection.  You dial up a special
+host computer--just like case (2)--called a SLIP-server.  The difference
+is that the SLIP server gives you a temporary IP address and talks to
+your computer using the Internet Protocol.  This requires your
+computer's software to speak SLIP.  Your computer thinks it is using
+case (1) even though your actual connection is closer to step 2.  The
+advantage of fooling your terminal into thinking it has a direct
+connection is that it can use all the fancy, free software developed for
+computers with direct connections.
+
+The software for a SLIP connection is being built into all new
+communications software.  If you just bought or upgraded your software,
+you probably have SLIP capability already.  The catch?  SLIP is too slow
+on a cheap 2400 baud modem.  But if you buy a fast FAX modem it works
+fine.  That's one reason that a $350 FAX modem is a good investment.  It
+is fast enough for SLIP and gives you the ability to send and receive
+FAXes as well.
+
+SLIP technology is still rather new and somewhat experimental, so this
+discussion will focus on the old reliable--method 2.  How do you find a
+service that will give the public access to the Internet?
+
+Depending on where you live, you may have a provider you can call in
+your local area code.  If not, then most of your problem will be finding
+the cheapest way to make a long distance phone call.  This book does not
+have a list of providers, since such a list will get out of date
+rapidly.  Instead, it gives you one cheap way to get on the Internet,
+then gives you instructions on how to find out who the providers are and
+what their rates are.  I would rather teach you how to look out for
+yourself than just give you some outdated advice.  This method also has
+the advantage that one set of instructions works for everybody.  That
+wouldn't be true if I listed 20 or 30 providers.  Instructions are given
+in "Gettin on the Internet Step by Step."
+
+
+<Section 3.2>  Types of Internet Providers
+
+As I said, most of the problem of getting on the net occurs when you
+live in an area that doesn't have a LOCAL provider.  Basically there are
+three kinds of providers and three ways to get to them:
+
+  (1) Providers of direct connections.  If you are setting up a business
+and need a high volume direct connection for your office Local Area
+Network and can afford several thousand a year at least, you will want
+to consider these high-end providers.  They are not relevant to our
+discussion.  (But see Appendix C for more information).
+
+  (2) There are several regional networks and one national one that
+specialize in low cost PC-to-host or SLIP connections.  Costs range from
+$20-40 a month to $2000 a year, depending on the services you need.
+Performance Systems International (PSI) is a major provider of this kind
+of service.  Other networks offer services similar to PSI, although PSI
+has the most extensive nationwide service at this time.  This service
+can be very competitive with BBS type service (see below) if you are a
+frequent user of the net or need to send more than an occasional E-mail
+message.  It is definitely worth a look.
+
+  (3) Many computer bulletin board services offer E-mail or even
+Internet connections for around $10-20 per month.  Be very careful to
+check out the connection charges.  If you are not careful you could be
+charged for using the bulletin board (per hour), using the Internet, the
+long-distance connection, a surcharge for daytime use, and a per message
+charge for E-mail!  One of the purposes of this book is to explain the
+minefield of charges so you don't get burned.  The service recommended
+bundles all the charges up front so there are no surprises.
+
+Generally speaking, connecting to the Internet through a BBS is the best
+method for the explorer.  Once you've determined that you need the
+Internet on a regular basis, one of the regional networks or PSI is
+probably the most economical route.
+
+Unless you are fortunate enough to live in an area where an Internet
+provider is a local call away, you will have to contend with long
+distance charges.  Actually, these can be as low as $2 an hour and are
+sometimes bundled in with the network connection charge.
+
+
+<Section 3.3>  Finding the Cheapest Long Distance Method
+
+There are three basic methods of paying for long distance:
+
+  (1)  You just pay for a call to another area code.  This is very
+expensive and not recommended.
+
+  (2)  You use a provider with a toll free (800) number and pay for the
+call in a higher connect charge.  This is also very expensive.
+
+  (3)  You use a Public Data Network after hours and pay around $2 an
+hour (may be included).
+
+Actually, the last method is the only workable one.  There are a number
+of PDN's.
+
+  CompuServe has a data network.  You do not have to join CompuServe to
+use it.
+
+  PSI has its own data network with many points of presence around the
+US and abroad.  These are divided into Class A and Class B, depending on
+the level of service provided.
+
+  Tymenet and SprintNet are two other public data networks.  You may
+have heard of the SprintNet service PC Pursuit.  For a monthly fee this
+gives you many BBS nationwide as well as any computer that can be
+reached by SprintNet.
+
+In general, for a first experiment we recommend the DELPHI BBS and
+SprintNet.  DELPHI includes the SprintNet surcharge in its $13/month
+bill (after hours use only--daytime is expensive everywhere).  At this
+writing you get 5 free hours the first month and 4 hours per month after
+that.  Additional hours are $4 each.  There is also a 20 hours for $20
+plan.  Additional hours are $2 each with this plan.  Detailed
+instructions on how to sign up are given in "Connecting to the Internet
+Step by Step."
+
+
+<Chapter 4>  Who Pays for the Internet?
+
+All this talk of cost may be making you edgy.  Eventually, everyone
+using the Internet must face the fear--if I am calling up a computer in
+Switzerland won't I be billed for the call?  The marvelous thing about
+the Internet is that although there is plenty of expense involved in
+getting on it, there is no additional expense associated with what you
+do after you are connected.  THE WHOLE WORLD IS ON LOCAL.  Thus, you may
+have to pay for a $2 an hour call to Massachussetts, for your PC, your
+modem and software, and a connect fee to your internet provider.  But
+you DO NOT HAVE TO PAY FOR EACH AND EVERY INTERNET CALL.
+
+Since most people find it hard to believe that you can send mail
+anywhere in the world or dial up a computer on the other side of the
+globe without paying a special charge, I will spend some time explaining
+who does pay for the Internet and how those costs are reflected back to
+the user.  One way or another you do pay for network usage, but these
+payments are not in the form of a direct billing for each call.
+
+First, you already know that there is no Internet, Inc. that monitors
+all the calls and bill customers.  Instead there are hundreds of smaller
+networks that act as relays.  Those networks *could* charge their
+customers for each call, based on how much time it takes and where it
+goes, but since no one is charging them, they have no real incentive to
+pass on costs.  Instead they charge a flat fee--usually based on connect
+time, but for a 24 hour connection just a flat yearly fee.
+
+Now network traffic does use up resources.  Basically, the Internet
+works like a potluck supper.  Everyone with a direct connection allows
+some of their system resources to be used by messages that are just
+"passing through".  They allow this because other systems allow them the
+same privilege.  Thus, it is in everyone's interest to allow some of
+their resources to be consumed by other persons' messages, because
+everyone comes out ahead.
+
+So, sites with direct connections pay real costs in terms of lost
+computing cycles, extra cabling, fancier equipment, and lost disk space.
+These costs are passed on to their customers or shouldered by government
+subsidy.  But there are no direct charges associated with using the
+system.
+
+In the early days of the Internet, Government subsidy of the backbone
+networks was crucial.  The backbone was built with government funds and
+it was government funds that paid for the extra equipment needed by the
+universities and laboratories that carried more traffic than they
+generated.  With the development of commercial nets alternatives to the
+Government-sponsored backbone arose.  The Government subsidy is still
+important, but becomming less so every year.
+
+So, the short answer is that you pay for the network.  You either pay
+your provider a flat fee or you pay as a taxpayer for Government
+subsidized network resources.  Most of the cost you actually see will be
+in your own equipment, the cost of placing a phone call, and whatever
+your provider charges you.
+
+
+
+<Chapter 5>  Internet Basics
+
+We've talked a lot about the Internet, but how do you actually use it?
+There are three basic skills on which all Internet use is based:
+
+  Electronic Mail (E-mail)
+
+  File Transfer Protocol (FTP)
+
+  Telnet
+
+All three commands rely on the Internet addressing scheme.  An Internet
+"telephone number" of another computer is its Internet Protocol (IP)
+address, a number that looks like this:
+
+     225.225.12.38
+
+This form, called "dotted decimal," is still required by some computers.
+But, to make IP addresses easier for humans, this telephone number has
+another form which is easier to remember:
+
+     hoople.usnd.edu
+
+This means that computer ("node") named "hoople" is located at the
+University of Southern North Dakota.  The last component, ".edu", means
+that the institution is in the educational domain.  .  Other domain
+names look like this:
+
+  .edu : educational institutions
+
+  .gov : government (research laboratories and
+
+  .com : commercial businesses
+
+  .org : nonprofit organizations
+
+  .mil : military installations
+
+In addition to these domain names, there are many two-letter country
+codes, e.g.
+
+  .ca  : Canada
+
+  .jp  : Japan
+
+  .uk  : United Kingdom
+
+  .us  : United States
+
+and many more.
+
+To send electronic mail to someone over the Internet, all you need to
+know is their "username", or "handle".  This is followed by an at-sign,
+the node name, and any domain names.  Thus
+
+     joe@locoweed.chi.il.us
+
+donotes a private citizen in Chicago, Illinois, in the U.S.  Joe's
+computer is called "locoweed".
+
+As another (real) example,
+
+     president@whitehouse.gov
+
+is the E-mail address of the U.S. President.
+
+In the examples that follow we will give details for a typical
+character-oriented computer.  Windowing systems with menus, dialog
+boxes, and so on will hide many of these details, but they are happening
+behind the scenes.  Also, once you are connected, you may be faced with
+an old-fashioned command-line system.
+
+
+<Section 5.1>  Electronic Mail (E-mail)
+
+The details of using the mail system depend on your system, but
+basically it looks like this:
+
+     % mail   <enter the mail program with the MAIL command, or
+whatever>
+
+     Welcome to Mail, Version 99.3 . . .
+
+     mail>  send
+
+     To:  president@whitehouse.gov
+     Cc:  vice.president@whitehouse.gov  <or return if you don't want a
+carbon sent to anyone>
+     Subj:  I'm on Internet
+
+     Type your message.  Control-Z to exit
+
+     Bill--
+
+     I just got my Internet connection today.  My address is
+     pdq@hoople.usnd.edu.
+
+     Give my best to Al,
+
+       PDQ
+
+     <type control-Z or do whatever your system needs to signal an end
+of the message>
+
+     %   <your system is now ready for your next command>
+
+
+<Section 5.2>  Telnet
+
+In addition to using an Internet address to send E-mail, you can use it
+to call a computer.  This is rather like dialing up a computer with a
+modem, except that the local computer (the one you called with *your*
+modem) is calling up the remote computer:
+
+     your PC or Mac  -->  "local computer"  -->  "remote computer"
+
+The example assumes that "home>" is the shell prompt given by your local
+computer and that "%" is the prompt given by the remote computer (see
+Section 2.2 on "shell prompts").  So remember, you don't type them.
+
+     home> telnet hoople.usnd.edu   <type this on your "home" computer>
+
+     Welcome to node HOOPLE.  Now running Opus 2.0
+
+     username: pdq
+     password: <type your password here>
+
+     Last login 23:14:55 15-JUN-1752
+     You have mail.
+
+     %  <now type whatever commands you like until . . . >
+
+     % logoff <or bye or quit or exit or whatever>
+
+     Session with hoople.usnd.gov terminated at 21:19.
+
+     home>  <now continue issuing commands on your home computer>
+
+This method of connecting to another computer is called "telnetting".
+In effect, you have used the local computer to telephone the remote
+computer.  You can now do anything on the remote computer (with certain
+restrictions) you could do if you were "actually" logged on.
+
+  SPECIAL PROBLEMS WITH TELNETTING
+
+Sometimes telnetting will put you into a menu-type program or even a
+"screen oriented" program.  A special problem here is getting the other
+computer to recognize what type of screen you have.  Since most
+communications software "emulates a terminal", this amounts to telling
+the other system what type of terminal your communications system is
+emulating.
+
+E.g., on a UNIX system you might type:
+
+     % set term vt100
+
+to tell the other system that your communications software thinks it is
+a VT100 terminal (a very common choice for emulation programs).
+
+If you don't get this exactly right, your telnet session will "sort of
+work".  It's probably not worth spending a lot of time on this problem
+for a brief contact with the other computer.  If you are going to work
+on the remote computer every day, however, you will want to get it
+right.  Most "flaky" behavior can be traced to this problem.
+
+
+<Section 5.3>  File Transfer Protocol (FTP)
+
+It is easy to transfer files over the Internet using a special protocol
+called FTP.  FTP takes the place of programs like XModem or Kermit that
+may be familiar to you if you use a bulletin board service.  Now, you
+might ask, if FTP transfers a file, what is the differnce between
+sending E-mail and FTP; why prefer one over the other?
+
+First of all, FTP avoids certain restrictions on the type of file sent;
+in particular, you can send binary (non-text) files like programs and
+pictures; and you are not restricted to any particular length, as is
+often the case with mail programs.
+
+Not only that, with FTP you can "browse" a directory of files before
+choosing one.  You can move up and down the directory hierarchy and list
+files, looking for the one you want.
+
+Finally, FTP lets you get places that you may not have an account (or a
+friend to send you mail).  The method for doing this, called "anonymous
+FTP", is described in the next section.  There are several hundred
+"anonymous FTP sites" worldwide, with large collections of programs,
+textfiles, and graphics.  Anonymous FTP is the Internet equivalent of
+publishing--a very important topic indeed.
+
+
+<Section 5.4>  Anonymous FTP
+
+
+Further facility with Anon. FTP requires a little knowledge of the UNIX
+operating system.  See Appendix D for an introduction.
+
+
+
+<Chapter 6>  Getting on the Internet Step by Step
+
+This course takes a different approach to .  Rather than
+
+In particular, you should contact the following for information.
+
+
+STEP 1.  SIGN UP WITH A PROVIDER (example DELPHI)
+
+To get on the Internet you need:
+
+  1.  a home computer,
+
+  2.  a 1200 or 2400 baud modem that understands AT commands ("Hayes
+Command Set Compatible"),
+
+  3.  communications software, and
+
+  4.  a credit card.
+
+This example assumes that you are signing up with the bulletin board
+service DELPHI.  DELPHI has no commercial relationship with the author.
+It was chosen for an example because its rates are typical of the low
+end of the market, it offers nationwide service, it includes afterhours
+access by SprintNet in its basic fee, and because at this time it offers
+5 free hours of Internet access to new subscribers.
+
+You should definitely consider other providers.  You can get information
+about other providers once you're on the Internet.  In fact, that will
+be one of your first steps below.
+
+  1.  Set your modem to 2400 (or 1200) baud, 8 bits, NO parity, 1 stop
+bit, full duplex, local echo and auto linefeeds off, XON/XOFF on, VT100
+emulation.  (see the manual for your modem, the manual for your
+communications software, and Appendix A if you need help)
+
+Don't worry if some of the options are missing.  Usually, for example,
+full duplex implies local echo off and vice versa, so your software may
+not list these as separate options.
+
+  2.  Use your communications software to issue (or type directly to
+your modem) the command ATDT 1 800 365 4656.  If you have a pulse-dial
+phone your will use ATDP instead of ATDT.
+
+  3.  DELPHI will give you explicit instructions, but for reference they
+will look like this:
+
+    A.  Make sure it is after 6 or 7 p.m. or on a weekend--unless you
+want a $9 surcharge for daytime access.
+
+    B.  Dial your local SprintNet access number (local call!):  ATDT 123
+4567.
+
+    C.  After "CONNECT 2400", type @D ("D" must be capital)
+
+    D.  After "terminal=" type <CR>, i.e. carriage return.
+
+    E.  At the @-sign type
+
+        @C DELPHI
+
+    F.  After Username: type
+
+        Username:  YOURNAME
+        Password:  OPENSESAME
+
+Type your own username and password of course.
+
+
+  4.  If at anytime you forget your Sprintnet access number, or if you
+are out of town, you can look up SprintNet numbers as follows.
+
+STEP 2.  Your First E-mail
+    Get PDIAL, NIXPUB, INTERNET RESOURCE GUIDE, Info on PSI
+    Info on LISTSERV and signing up for E-mail
+
+STEP 3.  Your First Anonyomous FTP
+
+    Get surfing the internet
+
+STEP 4.  Your First Telnet
+
+    Getting Public Access UNIX and reading Usenet news
+
+
+STEP 5.  First E-mail
+    Getting Information on PSI
+    Getting Information on LISTSERV
+
+You can do many, many things with the Internet.  The information you
+have retrieved, especially the Internet Guides, will give you other
+ideas.  We will go over some of the retrieval methods in Part III of
+this course.  For now, you should experiment and explore, using the
+information you have as a starting point.  The experience you gain will
+be useful when we come to the more systematic study of Internet research
+methods later.
+
+
+
+<Chapter 7>  Programs and Pictures
+
+Evenually, as you gain experience finding and transfering information,
+you will want to try you hand at transferring binary files containing
+pictures or free software from one of the large FTP archives like
+
+  wustl.edu
+
+  sumex-aim.stanford.edu (Macintosh software)
+
+  simtel-20.mil (IBM and compatible software)
+
+In fact, some of the first software you will want to get is software for
+compressing and uncompressing files (see next Chapter), processing
+graphics ("image files"), and perhaps some games.
+
+First, what is a binary file?  A binary file is one that you can't read.
+Unlike text, which consists of groups of eight bit code letters
+representing "a", "b", and so on, binary files have bits that are meant
+to be read only by programs.  You cannot "look" at them by typing them
+out or with a word processor--unless the word processor understands the
+format of the file.  Expensive word processing programs--including the
+most popular ones like Word Perfect and Microsoft Word--are increasingly
+able to read a large variety of binary files.
+
+Frequently encountered binary files include:
+
+  1.  Files that use proprietary formats, such as word-processing
+programs, spreadsheets, database programs, etc.  These files contain
+formatting (like italics, underlines, etc.) and perhaps graphics, and
+other goodies beyond the simple text.
+
+  2.  "Application Programs".  These are programs written in (the
+binary) machine language that your computer understands.  They are
+"compiled" from text files of "source code" written in a programming
+language.  Vendors almost never make their source code available--except
+for free software, which you may have to compile yourself.
+
+  3.  Text files that have been compressed to about half their size with
+one of the popular compression programs.  Compression makes texts files
+binary.  Compression doesn't do much for files that are already binary
+unless the data they contain is very repetitive.
+
+  4.  Files containing graphics like GIF, TIFF, PICT, or JPEG files.
+More on this below.
+
+Transfering binary files is as easy as transfering text files once you
+understand the potential problems:
+
+  1.  Most FTP programs start you out in TEXT mode.  This means that
+text files are *translated* when they go from computer to computer on
+their way to you.  This is fatal to binary files because their bit
+pattern has nothing to do with the groups of eight bits that make up
+text.
+
+  2.  Even text files have slight compatibility problems because the
+three "worlds"--IBM, Macintosh, and UNIX--use a different control
+character to represent "return", "enter", or "newline."  Translation
+between the different dialects is handled automatically in TEXT mode
+transfers.  It is also the main reason why text files cannot be
+transfered in BINARY mode.
+
+The two control characters involved are called "linefeed" (LF) and
+"carriage return" (CR):
+
+     IBM PC and compatibles : <LF> <CR>
+
+     Macintosh and VAX : <CR>
+
+     UNIX : <LF>
+
+  3.  As mentioned above, text files are often compressed to save space.
+This means that you need a program to uncompress them before you read
+them--and that you have to transfer them in BINARY mode.
+
+The most common compression programs and common file extensions are:
+
+     IBM PC and compatibles : PKZIP and PKUNZIP (.ZIP)
+
+     Macintosh : Stuffit and UnStuffit archives (.sit)
+
+     UNIX : compress and uncompress (.Z) and tape archive (.tar) with
+both together being most common (.tar.Z or .taz).  Note capital "Z".
+
+UNIX also has the gzip/gunzip command pair.  gzip files usually have the
+extension ".z" (*small* z) or ".tgz" if they are also tape archive
+files.
+
+Fortunately you can usually find free software for you computer that
+will uncompress formats from other computer models.  For current
+information on compression software, see the FAQ for the newsgroup
+comp.compression (ftp://rtfm.mit.edu/xxx).
+
+  4.  Conversely, sometimes binary files are converted to a sort of
+ASCII that looks like gibberish so that they can be mailed or
+transferred in TEXT mode--but again you need a program that translates
+them back to binary.  Sometimes we encounter the ultimate absurdity, a
+text file that is compressed then re-encoded as ASCII for mailing.
+Actually this makes sense if a large number of related text files are
+stored in a compressed "archive".
+
+The most common programs for this are:
+
+     uuencode/uudecode for UNIX (used for Usenet news postings of binary
+files and for mailing programs)  The file extension (rarely encountered
+because there is little reason to store files in this format) is ".uue".
+
+     BinHex for the Macintosh (.hqx)  Often combined with Stuffit
+(.sit.hqx).  This is a common method for distributing all the files that
+come with a program as a single file.
+
+uuencoded files can be recognized by the fact that every line begins
+with a capital "M" and is exactly the same length.  The file starts with
+the word "begin" and ends with "end"  The translating program needs
+these words, but nothing above or below them.  Often a uuencoded file is
+split into several parts for transmission and must be reassembled (and
+stripped of mail headers, etc.) in a word processing program before it
+is decoded.  If you do this be sure to save the resulting file as a text
+file and not in the proprietary format of the word processing program!
+
+
+<Section 7.2>  What To Do With Graphics
+
+The second topic of this chapter is graphic images.  Graphics are very
+important for Desktop Publishers--writers of newsletters, businesses
+that prepare their own brochures, and small printshops.  Pictures can be
+stored in separate files or, in some cases, embedded in other formats
+such as the proprietary format of Microsoft Word files.  Picture files
+take up a large amount of space--especially big pictures at high
+resolution.  1 Megabyte is a typical size for a smallish picture at
+moderate resolution.  Thus, one picture is worth about 500 pages of
+text!
+
+The lifecycle of a typical graphic goes something like this:
+
+  STEP 1.  Capturing (scanning) of photograph with optical scanner or
+with a special "video" camera
+
+The better sort of optical scanner looks like a small xerox machine.
+There are also cheaper hand-held models.  Flatbed scanners cost in the
+$1000+ range so you are not likely to have one unless you are in the
+business.  Most likely, the casual user will get a graphic from someone
+else, from a collection of "clip art", or create the graphic from
+scratch in a drawing program.
+
+  STEP 2.  Storage in a file using an interchange format
+
+However the image is obtained, it has to be stored on disk before it can
+be used.  There are perhaps twenty or so common formats, but those found
+most often on the Internet and in the Usenet newsgroups are:
+
+     GIF (Graphics Interchange Format) a rather old-fashioned but very
+commonly found type of graphics file.  Almost any software can read this
+format.  This is the most common format on Anonymous FTP archives.
+
+     TIFF (Tagged Image File Format)  Technically more versatile than
+GIF and just about as common.  A very good choice for exchanging files
+between different programs.
+
+     JPEG () A special compressed image format that is becoming common
+in newer software.
+
+     EPS (Encapsulated PostScript)  Not really a graphics file per say,
+but a set of instructions for drawing an image.  The success of the
+Postscript page description language for Laser printers has led to a new
+stategy for including graphics in word processing files.  Many high end
+word processing programs like Microsoft Word allow you to include a
+reference to an external Postscript file containing the figure.
+
+Desktop publishing and high-end word processing programs can often save
+and import graphics in any of these formats, especially TIFF and EPS.
+
+In addition, you may find files in proprietary formats like Macintosh
+PICT files.  These formats serve as standards for their line of
+computers but not across different brands.  Fortunately you can find
+free software that will convert TIFF to PICT or _vice versa_.
+
+  STEP 3.  Transmission to point of use
+
+Suppose you have a graphics file or a word processing file containing
+your brochure.  How do you send that file to someone?
+
+If you work in an academic environment, it is quite possible that one or
+the other institutions is an Anonymous FTP site.  You may be able to use
+the Anon. FTP site as a "mailbox" to transfer the file in binary mode--
+or you could exchange passwords and transfer the file directly, if both
+have a direct connection to the Internet.
+
+More commonly, you will have to send the file by E-mail.  Say you've
+just finished a brochure and you want to send it cross-country.  Let's
+suppose that your business has two branches--one in New York and one in
+Los Angeles, and that both offices have Macintoshes with Microsoft Word
+and that you both have one of the free "Usenet software kits" for the
+Macintosh (not necessarily the same one).  Then, you proceed as follows:
+
+  A.  Using UUENCODE (or BINHEX, if you like) you convert the Microsoft
+Word file to a coded text file.
+
+  B.  If your mail has a size limit, you may have to break up the file
+and send it in parts.
+
+  C.  At the receiving end, reassemble the file and strip any headers
+and trailers added by the mail system.  The file should look like
+
+     begin  <very first line>
+     M
+     M
+     M
+
+
+     M
+     end  <very last line>
+
+and be saved as a TEXT file.
+
+  D.  Run UUDECODE (or BINHEX) and recover the binary file.
+
+  E.  Run Microsoft Word, open the binary (MS Word!) file and print.
+
+There may be one slight glitch.  Macintosh files have two parts, a
+"resource" part and a "data" part.  The resource part contains such
+information as the name of the application to run when you click on the
+file and how to draw the cute little icon pictures.  Some of the simpler
+programs do not encode the resource part so you may get a generic
+document that you can't open by clicking on it (the infamous
+"application busy or missing" message).  That's OK.  Open it from
+*within* Word and then save it as a Word document.  It should recover
+the missing parts.  And get smarter software.
+
+Certainly this procedure is complicated--and you might want to do a dry
+run before you try beating a 5 o'clock deadline--but the capability of
+transfering a computer file cross-country in seconds can be crucial to a
+business.  The fact that it can be done with free software and a casual
+$10/month E-mail connection is astounding.  Play around and learn to do
+this.  In the future, printers may commonly accept submissions by E-mail
+or by direct transfer over telephone lines.  Imagine not having to
+figure out how to keep your camera-ready copy dry on a rainy day or
+having to rush across town minutes before your deadline!
+
+  STEP 4.  Image enhancing and/or color separation
+
+One of the great advantages of having a graphic in a computer file is
+that you can use free software (or shareware) to play around with the
+image.  Cropping, rotating, streching, zooming, and so on are all
+common.  In addition, you can convert color to black and white or
+greyscale, enhance the image, make halftones or color separations, and
+even play with the spatial frequency spectrum if you want.  (Color
+separations are the four images needed by printers--separate ones for
+Cyan, Yellow, Magenta, and Black ink).
+
+  STEP 5.  Importing or embedding in a word processing or desktop
+publishing program
+
+Once you are happy with the picture you import it as a graphic into your
+DTP or word processing program.  If your program reads the format the
+picture is in, this is easy.  If not, you will need to get free software
+that converts from the format you have to the one you need.  This
+process is very experimental.  I've found that I have better results
+converting from an obscure format to a standard and common format like
+GIF or TIFF before converting to a proprietary target format.  This is
+even true if the software says it reads the obscure format directly.
+
+  STEP 6.  Printing on a laser printer or other equipment
+
+If a graphic is not solely intended for display on a (color) monitor,
+like a slide presentation, it must be printed out.  And there it is.
+Your picture in print.
+
+
+
+<Chapter 8>  What to Do When You Only Have E-mail
+
+The very first thing to do is to get information on getting a better
+Internet connection!  But barring that, there are many reasons that you
+might need to know workarounds that only require E-mail:  you might be
+stuck somewhere (like work) where there is no Internet access, or you
+could be borrowing access from a friend.  Since Internetworking is about
+communicating with others, in many ways this is the most important
+chapter in this course.
+
+First we consider methods for
+
+
+<Section 8.1>  FTP by Mail Servers
+
+
+<Section 8.2>  Archie by Mail
+
+
+<Section 8.3>  Mailservers and Fileservers
+
+
+<Section 8.4>  Mailing lists and how to find them
+
+
+<Section 8.5>  E-mail to FAX
+
+Fax is not a useful as E-mail, except in regard to one thing.
+
+
+<Section 8.6>  The Top Ten Fun Things to Get by E-mail List
+
+Now that you know the techniques, try getting some of the things on the
+"Top 10" list, in Appendix E.
+
+
+<Chapter 9>  Employee Development:  How to Get Your Employees
+Internetworking
+
+This short Chapter contains a little advice on how to learn about the
+Internet.  It should be clear from the preceding Chapters that learning
+how to use the Internet is a survival skill for many businesses.
+Effective use of the electronic medium
+
+  o  Saves employee time--time lost in phone tag, lost messages, and
+they three day time delay of surface mail.
+
+  o  Avoids circuitous means of transfering data like printing a
+document, faxing it, and then rekeyboarding the data at the receiving
+end
+
+  o  Allows businesses and individuals to self-publish, and distribute
+their work efficiently, whether or not the text or the graphical
+appearance is primary.
+
+  o  Provides access to information, allows communication and
+distribution of documents in a single, uniform fashion.
+
+It should also be clear that Internetworking is not yet a smooth, easily
+learned process.  It requires knowledge and skills that are not
+presently taught anywhere except on the Internet itself.
+
+The next section discusses specific needs of different segments of
+people.  The final section contains a fairly systematic exposition of
+the methods and skills needed to Internetwork effectively.  But far from
+representing these sections as the last word on the subject, I would
+like to stress that the only way to learn Internetworking is through
+undirected exploration of the Internet.
+
+This means you have to let your employees play, at least on their own
+time:  play with programs, play with Anonymous FTP, and play with Usenet
+news.  None of these activities are directly productive, but the playing
+pays off when you need a new program and someone in your office can
+
+     o  pick the right Usenet newsgroup and retrieve its FAQ
+
+     o  read the FAQ and learn about free software that will solve your
+problem and where to find the latest version
+
+     o  connect to the software archive and (correctly) transfer the
+program--even though the intervening machine is of the "wrong" make.
+
+     o  properly decompress and install the software.
+
+When all this is done competently, in less than half an hour, you will
+have attained the goal of employee development.
+
+A final caveat:  *don't neglect Usenet news.*  Usenet news is the most
+difficult of the "Internet basic services" to get because it is not
+really an Internet service.  It is commonly found on Internet computers
+and commonly transmitted over the Internet, but it does not fit into the
+E-mail-FTP-telnet scheme of things.  If your Internet provider does not
+provide the news, you may have to ferret it out by (1) getting an
+account on a public access UNIX system and (2) learning to use UNIX.
+Command-line UNIX is no easier than command-line MS-DOS, but it is worth
+learning how to get on a UNIX system for the "rn" (readnews) command
+alone.  All you need to know to get that far (and more) is contained in
+Appendix D.
+
+Any guide like this will soon be dated in terms of information sources,
+techniques, and software.  But Usenet is up to the minute.  There,
+hidden among the many diversions of alt., talk., and soc. hierarchies,
+is the latest information on the computing environment of modern
+Internetworking.  In the opinion of this author, learning to use a
+newsreader and reading the network news regularly is the *single most
+important Internetworking skill*.  The Usenet newsgroups are Dewey
+Decimal System of the the true world library.  Information can be found
+in plenty elsewhere, but guides to information are rare and priceless--
+and the Usenet news is the guide to the Internet.
+
+
+
+<Part II>  Special Concerns
+
+This Part lists briefly some of the ways in which various groups of
+people can use internetworking skills.
+
+
+
+<Chapter 11>  Special for Businesses
+
+I wish I had better news for business use of the Internet.  I wish I
+could describe hundreds of free services of interest to *business* and
+tell you how to use the Internet for profit.  But it's not there yet.
+However, before you turn away with a sad but knowing smile on your face
+shaking your head over another unlikely technological dream--you've seen
+it before--consider this:  the main potential of the Internet is as a
+communication medium.  Is radio and television important to businesses?
+What about newspapers and magazines?  Or direct mail?  Very few
+businesses make money by selling newspapers or operating radio stations,
+but many, many businesses use these media for advertising.  You and your
+employees need to become adept at using this medium for the same reasons
+you've mastered layout of newpaper ads and writing form letters.
+
+It is very important to understand that the Internet is not a broadcast
+medium but more like the telephone or mail system.  It specializes in
+contacting individuals one at a time.  In other words, you are not going
+to get a list of all 25 million E-mail addresses and bombard them every
+10 minutes with a 30 second sound byte.  Nor are you going to send 100
+people a letter asking them to contact 100 persons each.  On the other
+hand you might use the medium to contact a mailing list of your
+customers or self-publish a promotional brochure.
+
+The amount of commercial traffic on the Internet is disappointingly
+small--but important.  Mostly this is for historical reasons.  The
+backbone network in the United States, NSFnet (for National Science
+Foundation) has an "acceptable use" policy for traffic carried over it.
+This restricts traffic to messages that support the R&D effort of
+certain government laboratories and universities.  Clearly, there is
+not room for commercial traffic if you are directly connected to the
+NSFnet.
+
+But nowadays one can get on the Internet without connecting directly to
+NSFnet, and the amount of commercial traffic is growing.  Don't
+overlook:
+
+  o  Making product information and brochures available by E-mail as
+well as by the postal service.
+
+  o  Allowing customer-support inquiries by E-mail.
+
+  o  Starting a mailing list for your customers or clients.
+
+  o  Setting up a "mail-server" to let clients get information about
+your product automatically, without having to wait for you to log on
+(required direct connection to the Internet).
+
+  o  Putting your product information on an anonymous FTP server
+(requires that you have a fileserver on the net or find an FTP site
+willing to take the information).
+
+Suprisingly, there are, to my knowledge, no pay-for-advertising services
+that support mailservers or anonymous FTP sites.  It is a fair
+prediction that this advertising medium will develop as more persons
+join the net.  You could put your information on bulletin boards, of
+course, but only members will see it there--not the 25 million people
+with E-mail access.
+
+The fact remains, however, that unless you are in very specific
+industries that are information or paper intensive (say publishing,
+computing, information retrieval, and so on), or unless you need access
+to government information like weather maps, that your use of the
+Internet will consist of downloading programs or getting the latest
+technical information.
+
+All of this overlooks the most important aspect of the Internet for
+businesses.  The Internet is evolving very rapidly.  It is likely to be
+an important medium for transacting business, for customer service and
+for advertising in the very near future no matter what industry you are
+in.  For some industries, like publishing, high-technology industries,
+and the media, it will be critical.  Businesses who have a pool of
+employees that are adept at using the Internet will have a competitive
+advantage over firms that don't.  Thus you should encourage your
+employees to get personal Internet connections and learn about the
+Internet after hours.
+
+
+
+<Chapter 12>  Special for Students and their Parents
+
+Since the Internet grew up in an academic environment, university
+students will likely have a level of access that would be the envy of
+any business.  All the services and research tools--not just E-mail,
+FTP, and telnet, but gopher, WWW, WAIS, and the rest are likely to be
+available to students from any terminal on the local "cluster" or by
+dial-up from their dorm rooms.
+
+Students will be especially keen on:
+
+  o  checking the university library catalogue to see if a book is in
+before walking to the library.
+
+  o  finding out about campus events (even at other universities!)
+through gopher or school bulletin boards
+
+  o  posting buy and sell notices for computer equipment, cars, housing,
+and so on.
+
+  o  contacting potential tutors either at their own university or for
+help by E-mail.  (A netwide "university" of tutors, called Usenet
+University, is prepared to answer questions in various subjects by E-
+mail already exists in the Usenet newsgroups.  See the alt.uu.*
+hierarchy).
+
+  o  using online catalogues of other university libraries to find books
+for interlibrary loan or to compile bibliographies
+
+  o  downloading free software and information
+
+  o  finding scholarship information
+
+Parents can communicate with their children at college by E-mail--and
+probably get a faster response than waiting for the occasional letter
+from home.  Worried parents will have to refrain, however, from using
+the "finger" command to find out when their children last logged in or
+read their mail!
+
+
+
+<Chapter 13>  Special for Writers, Journalists, Publishers, and Printers
+
+There is probably no industry for which information is so critical as
+for the media and publishing industries.  Journalists who explore the
+networks will find that they use the tools described in the first part
+over and over to track down information, conduct prompt "interviews" by
+mail, and so on.  Publishers will be interested in the electronic
+transmission of manuscripts (though writers soliciting publication will
+still want to send hardcopy--the equivalent in the electronic age of
+sending a self-addressed stamped envelope).  Publishers will also be
+interested in sharing or developing free image processing software with
+other publishers, and transmitting graphics.
+
+As the net develops, libraries research will more and more often involve
+internetworking.  Searching for books is already easy by dial-up or over
+the Internet.  In addition, the amount of information that is never
+circlulated on paper will increase.  This is already the case in the
+scientific and technical community where printing is a luxury rather
+than a necessity.  Given that a single 8 mm videotape can hold 500,000
+pages of text, it is possible to hoard (and search) vast amounts of
+information that you can never possibly print out.  Imagine what such
+technology will do in the hands of Government or any other bureaucracy.
+Finally, it is not hard to image the day when an editor will receive as
+many press releases by E-mail as through the postal service.
+
+Internetworking technology allows virtually any business or individual
+to set up and run their own "wire service", providing information about
+their business or special interest to a select group of subscribers.
+This capability is completely analogous to Desk Top Publishing, which
+put low-end printing in the hands of any business or individual.
+
+Journalists and other writers will not want to overlook the
+kaleidascopic mixture of technical discussion, product announcements,
+gossip, and general ranting on Usenet.  Usenet already has more channels
+than a typcial satellite and is growing by ten channels a day or so.  It
+is hard to find, but tucked in among the chit-chat and programs is the
+only up to the minute information on the Internetworked World.
+Certainly all writers of scientific or technical columns will want to
+tap this source of information.
+
+
+
+<Chapter 14>  Special for Elementary and High School Teachers
+
+There are many special Internet services for Elementary and Secondary
+School teachers provided by the Government, mostly through the education
+offices of research laboratories.  The best all around refernce for
+teachers is the _NCSA Guide to the Internet_, put out by the Education
+Office of the National Center for Supercompter Administration.  A paper
+version is available from:
+
+The network version is located at ftp.ncsa.uiuc.edu.  Unfortunately, it
+is available only in Microsoft Word format (requires binary transfer).
+If you are unable to use this format directly or convert to a format you
+can use, you will have to order the paper version.
+
+The NCSA Guide covers all you need to know to connect to the Internet--
+both technical details and etiquette--as well as suggested projects to
+introduce children to the net.  You will find out how to get information
+about the space program or how to access such programs as the Newton
+Bulletin Board Service for Science and Math. teachers at Argonne
+National Laboratory.
+
+In addition, Usenet has a k12.* hierarchy which provides a gateway to
+the K12 network.  Besides K12, there are several other regional networks
+specifically for teachers and students.
+
+One of the more exciting prospects for teachers is that of sharing
+worksheets, handouts, and other materials with other teachers.  Although
+this type of sharing is routine on bulletin boards and regional networks
+that cater to teachers, anonymous FTP sites hold out the possibility of
+a worldwide collection of such materials.  Send contributed materials
+(in electronic format) to
+
+     ftp.cs.city.ac.uk:/freelore/incoming
+
+by following the instructions in Chapter xx for sending a file by
+anonymous FTP, or mail a floppy disk (and a return mailer with prepaid
+postage, if you want it back!) to
+
+     The FreeLore Project
+     P.O. Box 6022
+     St. Charles, IL  60174.
+
+Make sure your materials have a copyright notice like this course,
+allowing anyone to copy and distribute them for free (for educational
+purposes).
+
+
+
+<Chapter 15>  Special for Librarians
+
+For many years, of course, libraries have been among the heaviest users
+of information services--for cataloguing or to fill patron requests.
+Several companies now specialize in providing Internet access to
+libraries, e.g. ACCESS or DRAnet.  Libraries will increasingly use these
+services because the promise the following benefits:
+
+  o  Inexpensive access to hundreds of online library catalogues,
+worldwide.
+
+  o  Uniform, and often cheaper, access to information services using
+telnet rather than a host of special software packages.
+
+  o  Access to netwide searching tools like WAIS, WWW, and GOPHER.
+
+  o  Discussion by E-mail with other librarians, conference reports and
+announcements, and so on.
+
+It is true, as one librarian said to me, that you can tell that
+librarians didn't set up the Internet.  The archives grew piecemeal and
+their contents are far from uniform in quality.  In addition, the whole
+Internet is so vast it probably can't be catalogued.  Nevertheless,
+rough and ready tools and customs have grown up to provide some sort of
+access to the information that is "out there".  There is a great deal of
+work to be done by librarians that will doubtless keep them employed
+into the next millenium.
+
+The main boon to librarians is the hierarchical organization of the net
+into nodes, directories, and subdirectories.  These provide an implicit
+and universal call number to *everything in the electronic world*.  The
+day is not far away when a cross-reference like
+
+     See ota.ox.ac.uk:/pub/HistoricalDocs/Political/US/constitution
+
+will be as common as a bibliographic citation or See reference in a card
+catalogue.
+
+The Internet also carries a number of hidden expenses and dangers to
+libraries:
+
+  o  It will somewhat increase the expense of computer equipment,
+technical personnel, software, etc. needed by libraries
+
+  o  Additional phone lines may become necessary, especially if some
+sort of public access to the Internet is contemplated
+
+  o  Staff training needs will be greater
+
+  o  The local computer system will need virus protection software and
+regular backups (a good idea anyway but seldom practiced by librarians,
+in my experience.  Persons who are trained in book conservation should
+know better!).
+
+  o  Some material on the Internet will arouse complaints from the
+public because it represents the views of unpopular minorities (e.g
+liberals, homosexuals, feminists, and intellectuals).  There is also a
+great deal of pornographic material (text and graphics) available by E-
+mail or through the Usenet newsgroups.  Issues of censorship, public
+funding, and access for minors have yet to be played out in the domain
+of electronic communications.
+
+In addition to the standard package of services from your provider,
+librarians should not neglect Usenet Newgroups, even if this means
+getting a special account with a different service (and accessing it by
+dial-up or telnet through your primary service).  Learning to use the
+Usenet Newgroups and their invaluable FAQs (Frequently Asked Questions)
+is the *single most important skill for professional development of your
+staff.*  This means that you may want to encourage after-hours "playing"
+with your computer system.  Think of the Usenet Newsgroups as the
+Reference Section of the Internet.
+
+
+
+<Chapter 16>  Special for Scholars
+
+It used to be that only scientists and technologists used the academic
+networks.  But no longer.  Today there are many humanists and social
+scientists happily gabbing away with their friends (oops . . . I mean
+colleagues) at other universities, collaborating by E-mail, subscribing
+to and writing for E-journals, and so on.  This is, of course, in
+addition to the academic computing environment described in the Chapter
+for students.
+
+Your main entree to this world is some sort of E-mail access and finding
+a mailing list or newsgroup for your field.  From there you will pick up
+tips on interesting materials or groups to join--in short you can start
+networking.  The two main sources for such mailing lists are LISTSERVERS
+(traditional on BITNET) and increasingly Usenet Newsgroups.  Actually
+the newsgroups are not as useful as the lists at the moment *for the
+humanities*.  This is because the academic hierarchy is not as
+subdivided as the computer science hierarchy.  Thus, there is a whole
+hierarchy for computer science, but all of linguistics fits into
+sci.lang!  These discussion groups either tend to have just a few
+participants or to be so all-encompassing that they are useless.  This
+does not mean you should ignore Usenet--the computer and networking
+information is invaluable--just that you will not find it *directly*
+relevant to your field.
+
+Listservers are another matter.  They allow distribution of articles by
+anyone to the whole list (unless the list is moderated, i.e. refereed by
+the list's owner), and they allow archiving of articles at a place
+anyone on the list can access.  In short, they form a sort of Electronic
+Journal with a *very* big reader mail column.  To find a list in your
+field, send the message "INDEX GLOBAL" to any listserver.  These usually
+have an address like "listserv@hoople.usnd.edu".  Then send a message
+like "SUBSCRIBE PDQFAN" to the listserver to join the list PDQFAN.
+After that you will send messages for publication to
+"pdqfan@hoople.usnd.edu" and (human) service requests to "pdqfan-
+request@hoople.usnd.edu".
+
+The best way to use a listserver is to avail yourself of the "SET PDQFAN
+DIGEST" or "SET <whateverlist> DIGEST" command so that you get the
+(daily?) mailing as a newspaper and not as a series of fifty or so mail
+messages interspersed throughout the day.  The digest includes *your
+own* correspondence so that you have a record of this.  This is not what
+happens without the DIGEST option.  For full instructions send the
+message "HELP" to "listserv@whereever.edu".
+
+Ultimately the Humanities will have the same infrastructure of services
+that already is forming in the Sciences:
+
+  o  easy access to preprints and collections of journal articles
+
+  o  archives of data sets, special purpose free software, and text
+databases.
+
+  o  collections of E-text source materials, if relevant.  These may
+include "tagged" text for special statistical studies.
+
+  o  a set of free programming tools for routine scholarly tasks like
+typesetting papers, creating bibliographic databases, and so on--in the
+format specific to your field.
+
+Scholars in the humanities should check the list of E-text archives
+(over 300 of them) at Georgetown University (send E-mail message "" to
+"" to get started).  These archives may well have materials in your
+field that they will make available for scholarly purposes at a nominal
+cost.  In addition, check the Oxford Text Archives at black.ox.ac.uk.
+(Login as "anonymous" for information--as of this writing the archives
+are not searchable online by telnet, but an index is available).
+
+
+
+<Chapter 17>  Special for Churches, Synagogues, and Mosques
+
+It is suprising that religious organizations have been so slow to
+recognize the importance of a new communications medium like the
+Internet.  Many religious organizations use computers for producing
+newsletters or accounting and other office tasks; but very few use them
+effectively for telecommunication and internetworking.
+
+The Internet is not like Television or Radio--it is not a broadcast
+medium.  In many ways the Internet is a more appropriate communications
+medium for religions organizations than "the media".  It is less
+expensive, not centrally controlled, and reaches persons who want to
+receive the information on a case-by-case basis.
+
+There is nothing to prevent a religious organization from setting up a
+fileserver on one of the commercial nets (admittedly expensive, but you
+only need one worldwide).  From there any member of your organization
+can upload and download information.  Thus you can keep a library of
+regional or local newsletters, special software, a directory of local
+groups, listings of job openings, and so on.  Many organizations already
+have this sort of thing on Bulletin Boards, but FTP archives and E-mail
+provide a less expensive method of disseminating information that can
+reach anywhere in the world, not just a local region or single area
+code.
+
+But the promise of internetworking goes beyond the "office environment"
+of your organization--which I am sure is already well developed--to
+touch your educational and evangelical mission.  You can make
+information about your organization and its beliefs instantly available
+to 25 million people if they want it.
+
+In addition, there is a great need for "charity work" in preparing E-
+texts.  Most E-texts are copyrighted or locked up in proprietary
+databases.  This means that they cannot be freely shared.  Free E-texts,
+especially those written in plain "vanilla" ASCII, are in great demand
+among blind people--who can use special software to convert the text to
+sound--and by persons in remote areas or the third world.
+
+Distribution of free E-text is not limited to the Internet by any means.
+Free E-text will find its way onto thousands of bulletin boards and will
+be passed to non-networked machines by floppy disks.  Once printed out
+it can be disseminated by photocopying or any inexpensive printing
+method that uses "camera-ready" copy.  The Internet is thus the backbone
+of a worldwide distribution network that can reach anyplace
+sophisticated enough to have some sort of printing (or delivery)
+technology.
+
+There are basically two ways to create free E-text:  you can type or
+scan in something in the public domain (75 years old or older) or you
+can create new text that has a copyright notice like this one allowing
+anyone to copy and distribute the text.  It is not enough merely to sell
+the information at a nominal cost.  Unless you allow others the right to
+further distribute information it is not really "free", even if you
+sometimes give it away at no cost on a floppy disk.
+
+In fact, the only *free* religious literature (and typing even this in
+was quite an accomplishment) consists of:  The _King James Bible_
+(without Apocrypha), the _Quran_, the _Nicene Creed_, The _Book of
+Mormon_ and related texts, the Bible in Hebrew, and the _Kama Sutra_.
+Certainly the various denominations should consider releasing their
+basic liturgical texts and a selection of their religious literature in
+free E-text form.  Modern versions of the Bible are a problem because of
+copyright restrictions.  It would certainly be a boon for some
+organization to make a modern version "free" in the sense that anyone
+could copy and distribute it.
+
+
+
+
+<Part III>  Advanced Techniques
+
+<Chapter 18>  Research Methods I:  Basic Navigation Methods
+
+The Internet is certainly a vast place.  For the beginner, or for the
+experienced user who wants to do more than check an occasional
+bibliographic cross-reference to an FTP site, a navigation tool is
+almost essential.  The three most common navigation tools are discussed
+here.  They represent three different approaches to stategy, target
+constituency, target materials, and user interface (the part of the
+program that you see).  The three services are known as GOPHER, the WIDE
+AREA INFORMATION SERVICE (WAIS, pron. "ways"), and the WORLD WIDE WEB
+(WWW or W3).
+
+All three services are based on client-server technology.  To make
+information *available* to others you need special software called a
+server.  The user then uses a "client" program to access the
+information.  "Clients" are often free--they are written by whoever
+funded the initial project or by volunteer hackers.  The catch to using
+a client is that you have to have a *direct* (usually expensive)
+connection to the Internet.  This is the main reason that a SLIP
+connection will become more and more important.  It "fools" the net into
+thinking that you have a direct connection without the expense of
+hooking your computer to a Local Area Network and then to the Internet.
+You can use a client program on your own home or office computer if you
+have a SLIP connection.
+
+Even if you don't yet have a SLIP connection--they're still a bit
+experimental--you can use the services listed here.  As of this writing
+all three services allow free access to a client for demonstration
+purposes.  There are a number of telnet addresses where you can try out
+these navigation tools.  I expect that, as the traffic on the network
+increases, these public access sites will close down.  But by then
+communications programs will routinely include SLIP and probably some
+version of the major "clients" as well.
+
+One word of caution:  all the services here are built on top of telnet
+and FTP.  They just provide a different and perhaps more useful way of
+making Internet connections.  Thus, the same service may appear in
+several guises, depending on the tool you use to connect to it.  There
+are also gateways that let you access one service from the other--but
+often at a price in terms of useability.  Since the software may not
+tell you that you are looking at, say, a Gopher-based service via WWW,
+you may have to try all three services to find the one that makes the
+most reliable connection.
+
+Another factor to consider is that unless you have a direct or SLIP
+connection, you will be limited to using a command line interface.  You
+will not experience the real power of, at least, WWW or WAIS.
+Nevertheless they are useful.  In general, a beginner should use gopher
+first, then play with the other two services to see if they are useful
+to you.
+
+The main problem you will have is *getting* the information you find.
+If you do not have the client program, this is difficult.  You could cut
+and paste the information from your screen or use your communications
+program's "buffer" to store it.  WAIS will send you the results of your
+search by E-mail.  Often, you will have to resort to FTP to fetch the
+information once you have located it--if you can figure out where you
+are.  One of my criticisms of search tools like Gopher or WAIS is that
+they often give you a very poor indication of where the information you
+found is physically located.  This is especially true of the publically
+accessible versions.
+
+
+<Section 18.1>  Gopher
+
+Gopher was created by two students, xx and xx, at the University of
+Minnesota.  It provides a menu-like view of that part of the Internet
+where Gopher servers are found, "gopherspace".  Gopher has spread to
+many universities.  You can search student directories and campus
+calendars, as well as the usual internet resources.  It is by far the
+easiest way to explore the net without entering numerous FTP and telnet
+commands.
+
+Since Gopher is the oldest and most decentralized of the services, it
+provides the most extensive access to useful services.  Online library
+catalogues, the Project Gutenberg library, FTP archives, and numerous
+exits to telnet.
+
+The telnet access to demonstration Gopher systems (and through them to
+Gopher servers on *any* campus) is through:
+
+     xxx.xxx.xxx
+
+Students will of course want to use Gopher directly from their school's
+system.  Try typing "gopher" at any prompt.
+
+
+<Section 18.2>  Wide Area Information Services (WAIS)
+
+WAIS was developed in a very different environment from Gopher.  It was
+developed by a joint collaboration of Thinking Machines, Inc.
+(Artificial Intellegence technology), Dow Jones News Retrieval
+(Information systems), and Apple Computer (User interface).  Its ability
+to find information given a plain English description of what you want
+("hey, find everthing on Personal Computers and Health) is truely mind-
+boggling.  It returns a list of "hits" together with a likelihood that
+it contains what you wanted.  It can also look for documents that are
+"something like" a sample document.
+
+The user interface is a pleasure to use--but requires a direct or SLIP
+connection to the Internet.  The line-oriented version that is
+publically available is a pale imitation of the real thing.
+
+WAIS strength is its ability to retrieve information from almost any
+source, not just FTP sites.  A list of all WAIS sources is maintained in
+a directory-of-directories (available at think.com).  You import a set
+of instructions on how to access a given information server to create
+your own personalized list of sources.
+
+This service is probably the one of greatest interest to business (i.e.
+non-academic and non-library) users.  To try out WAIS, telnet think.com
+and log in as SWAIS.
+
+
+<Section 18.3>  World Wide Web (WWW or W3)
+
+The newest of the three services is the World Wide Web.  It was created
+at the European European Center for High Energy Physics (CERN).  It is
+based on yet another technology (besides FTP and client-server)--
+hypertext.  The World Wide Web views the entire complex of FTP sites as
+a single "document" with cross-references.
+
+A WWW server lets you read that document and jump to any cross-reference
+that you find--hence the term "hypertext".  The result is rather like a
+menu driven system but (at least in the graphical interface versions)
+you stay inside the familiar context of a text editor.  If you can
+imagine clicking on a cross-reference and having your text editor fetch
+the document from an FTP site you will get the idea.
+
+The documents that can be viewed by WWW are ASCII text with special
+"tags" that give a addresses of the "hypertext links."  The tags use the
+syntax of the Standard Generalized Markup Language (SGML).  SGML is a
+language used by scholars to mark text for academic research.  The WWW
+vision of the library of the future is a collection of documents spread
+all over the world, the whole of which can be looked at starting from
+any one of them.  Sort of like having the whole world on your desktop.
+
+There is not "top" node to the Web, but you can find points of entry at:
+
+     telnet info.cern.ch (European Center for High Energy Physics in
+Geneva, Switzerland, the "home" of WWW).
+
+
+
+
+<Section 18.4>  Summary of Navigation Tools
+
+To summarize, here are the three systems discussed, together with their
+underlying technology and "constituency":
+
+  Gopher         : Simple FTP and Telnet             : Campus Info
+
+  WAIS           : Artificially Intellegent searches : Business
+
+  World Wide Web : Hypertext and SGML markup         : Ac. Research
+
+
+
+<Chapter 19>  Research Methods II:  Usenet Newsgroups
+
+[This chapter is under construction]
+
+
+
+<Chapter 20>  Research Methods III:  Advanced Techniques
+
+The previous two chapters covered the more or less standard techniques
+for finding your way around the net.  This chapter covers more
+
+There are three basic "problem situation" that every researcher using
+the Internet will eventually face:
+
+  (1)  You know who has the information but you don't know their
+"address".
+
+  (2)  The information is on the net, only you don't know where.
+
+  (3)  The desired information is not on the net, but their *is*
+information on how to get it from a non-network source.
+
+The methods described in this chapter are more tentative than in the
+preceeding two chapters.  They don't always work.
+
+
+<Section 20.1>  Finding Persons and Computers
+
+There are a couple of standard methods for checking and verifying E-mail
+addresses.
+
+     % ping rtfm.mit.edu
+
+(Remember that "%" is the prompt the computer gives you.  Your system
+prompt may look different).  You should get back a message saying
+"rtfm.mit.edu is alive" or something like that.
+
+Many machines support a command called "nslookup" that will return the
+dotted decimal address given the name of the machine
+
+     % nslookup rtfm.mit.edu
+
+returns "xxx" as the dotted decimal address.
+
+If you can guess the name of person or institution--this is not hard--
+then you can try to see if you have a valid address by "fingering" your
+intended victim:
+
+     % finger pdq@hoople.usnd.edu
+
+If the system supports the "finger" feature (and many don't), you can
+try any number of guesses or permutations.  If you succeed, you can find
+out lots of information about the person:  their telephone number, when
+they last logged on, when they last read their mail, what department
+they work in, etc.  Many systems allow you to leave a file called
+".plan"--note the initial dot--that contains further contact
+information.
+
+Good guesses for names:
+
+  o  last name (bach),
+
+  o  last name with one or more initials (pbach, pdqbach),
+
+  o  three (or more!) initials (pdqb)
+
+  o  nicknames, cute handles, etc. (fluffy,aragorn)
+
+  o  work ID numbers  (bach2378@bigblue.com)
+
+Your last resort is a search program called "netfind".  It lets you find
+a machine or person by keyword.  If you know your target is at USND, you
+can try the keywords PDQ, USND, EDU and find pdq@hoople.usnd.edu.  Note
+that you often have to guess the "domain", but this should not be hard.
+You can also search with PDQ, "University of Southern North Dakota",
+EDU, if USND is not sufficiently obvious.  City and state names work,
+too.  Try it.
+
+The main short comings of "netfind" are:
+
+  (1)  it often fails if the target computer does not support the
+"finger" command; and
+
+  (2)  it only works on the Internet, not Bitnet or other mail systems.
+
+To use "netfind" you have to telnet to any of several standard locations
+and log in as "netfind".
+
+
+If one server is busy it should give you a list of alternate servers to
+try.
+
+Detailed information on how to find someone on the net is given in the
+Usenet FAQ  (ftp://rtfm.mit.edu/ xxxx ).  This FAQ is oriented towards
+helping University students, who flood the networks every Fall looking
+for the E-mail addresses of their friends.
+
+
+<Section 20.2>  Finding Information and Software
+
+By far the easiest way to
+
+If you do not have Internet access, then you will have to use FTP by E-
+mail (use the "Archie by E-mail" archive server first to find your
+target!).
+
+  Finding Information and Software
+    Usenet News FAQ Archives
+    Archie
+
+
+<Section 20.3>  Finding References to Paper Documents
+
+This is the last resort, right?  Most information is still in paper,
+although the high cost of paper will mean that less and less is
+available this way.
+
+  (1)  Use the Internet to access bibliographic databases, especially
+library catalogues
+
+  (2)  Use a document retrieval service like that provided by the
+Colorado Alliance of Research Libraries (CARL).
+
+  (3)  Try to get someone to send you a xerox or fax.
+
+<Chapter 21>
+<Chapter 22>
+<Chapter 23>
+<Chapter 24>
+<Chapter 25>
+     These chapters, which deal more with abstract theory than with
+     specific instructions, has been omitted from this special edition.
+
+
+
+
+<Part IV>  Resources
+
+The main resources on the Internet are to be found on the net itself:
+especially the Usenet news and its many FAQs including the PDIAL and
+NIXPUB listings and various Internet resource guides.  The resources
+provided here are second best.  Nevertheless, it was felt important to
+provide a few addresses and a few book titles for the neophyte to get
+started.  The information in this section is a point of departure, not a
+conclusive summary.
+
+
+
+<Chapter 26>  The Internet Address Book:
+
+[This Chapter is under construction]
+
+
+
+<Chapter 27>  Bibliography
+
+Most of the books below do not contain a great deal of how-to
+information about connecting to the Network.  This course is intended to
+fill the gap.  But they do tell you what to do once you are on.  The
+first few, which are available by Internet, are especially useful.  They
+do make the network "self-describing".
+
+
+  AVAILABLE ON THE INTERNET
+
+_The Incomplete Guide to the Internet_ (for Macintosh with Microsoft
+Word only--for paper version see below)
+
+  A very complete guide written by the Education Office of the National
+  Supercomputing Agency (NCSA).  It contains a very complete intro-
+  duction to the Internet and classroom Internet projects for K12
+  teachers.  This is the best guide for public school teachers.
+
+For paper version, write:  Chuck Farmer, 152 CAB, 605 E. Springfield
+Ave., Champaign, IL  61820.  Cost is around $22.00 for 300 pp.
+
+
+Polly, Jean Armour.  _Surfing the Internet_
+  nysernet.org:/pub/resources/guides (192.77.173.2).  This is my all-
+  around choice for best introduction to the Internet.  It contains
+  references to most other good sources of information together with
+  instructions on how to get them.  It is especially complete in giving
+  information of interest to librarians.
+
+Kehoe, Brendan.  _Zen and the Art of the Internet_ (1st ed.)
+
+  A very good guide for how-to information.  Unfortunately, the FTP
+versions are all marked up in a dialect of the TeX typesetting system.
+They are still somewhat readable though, even if you don't have the TeX
+system.  A Postscript version is also provided.
+
+  ftp.uu.net:/inet/doc (137.39.1.9)
+  ftp.cs.toronto.edu:/pub/zen (147.31.254.132)
+  ftp.cs.widener.edu:/pub/zen (147.31.254.132) files are called zen-
+  1.0.tar.Z, zen-1.0.dvi, and zen-1.0.PS
+  ftp.sura.net:/pub/nic/zen-1.0.PS
+
+
+  PUBLISHED WORKS
+
+Kehoe, Brendan. (1993). Zen and the Art of the Internet: a Beginner's
+Guide (2nd ed.). Englewood Cliffs, NJ: Prentice-Hall.  ISBN 0-13-010778-
+6. Index.
+
+Krol, Ed. (1992). The Whole Internet User's Guide & Catalog. Sebastopol,
+CA: O'Reilly & Associates.  ISBN 1-56592-025-2.
+
+LaQuey, Tracey, & Ryer, J. C. (1993). The Internet Companion: a
+Beginner's Guide to Global Networking.. Reading, MA: Addison-Wesley.
+ISBN 0-201-62224-6
+
+Marine, April. (1992). INTERNET: Getting Started. Menlo Park, CA:  SRI
+International.   ISBN 0-944604-15-3
+
+Tennant, Roy, Ober, J., and Lipow, A. G. (1993). Crossing the Internet
+Threshold: An Instructional Handbook. Berkeley, CA: Library Solutions
+Press.  ISBN: 1-882208-01-3  (Library Solutions Institute and Press,
+2137 Oregon Street, Berkeley, CA 94705.  Voice: 510/841-2636  FAX:
+510/841-2926)
+
+
+
+<Chapter 28>  Glossary
+
+[This chapter is under construction]
+
+
+
+<Appendix A>  COMPUTER HINTS FOR THE *REALLY* GREEN
+
+1.  (turning on) Make sure the computer is plugged in and on.  Is
+something on the screen?  Can you hear a fan?  Does anything happen when
+you type or move the mouse?  Are lights lit or flashing?  The screen may
+be frozen by a "hold" button (look for a light labelled "scroll lock" or
+something similar.  Try touching the upper left button on the keyboard--
+F1, "escape", "hold", "break", whatever).  If the computer is not on
+look for a switch on back or a key labelled "on" or with a triangle on
+it.
+
+2.  (using a mouse) Determine whether you are looking at a character
+terminal or a window-oriented screen.  If window-oriented, then moving
+the mouse should cause a pointer to appear and move around.  Use this
+pointer to click on windows, buttons, etc.  You click the mouse by
+pressing its button (leftmost one if there are three).  If you hold the
+mouse button down you can "grab" things and drag them around.  Clicking
+on windows makes them active (ready for commands) and brings them
+forward.
+
+3.  (modifier and function keys) Keys labelled "shift", "alt", "meta",
+"option", "command", "ctrl" or marked with certain funny symbols are
+modifier keys.  They work like shift keys on a typewriter and can change
+the effect of typing a key or clicking a mouse button.  Function keys,
+labelled F1, F2, etc., do something immediately--like edit, move to the
+next page, or quit the program--when you press them.  The keys on the
+keypad (right hand side, looks like a calculator pad) act as function
+keys in some programs.
+
+4.  (popup menus and menubars).  If there is a string of words at the
+top of the screen ("menubar"), touch one of the words with the pointer
+using the mouse and then hold down the mouse button.  A menu should pop
+up.  If you continue holding down the mouse button and drag down the
+menu, then let go, you will select one of the commands.  If you don't
+want to activate a command, drag the pointer away from the commands
+(towards the middle of the screen, say) and let go.
+
+5.  (getting the computer's attention) No luck?  Try hitting "return" or
+"enter" a few times, look for keys labelled "break" or "escape", try
+"control-C" (hold down the key labelled "CTRL"--it works like the shift
+key on a typewriter--and then press "c", then let go of both keys).
+
+6.  (carriage return) Once the system is responding you usually have to
+hit the carriage return key (marked with a hooked arrow or "return" or
+"enter" or "CR" or "newline") or else click the mouse (left-most button
+if there are three) before anything permanent happens--like sending a
+command to the computer.
+
+An exception is in "menu-driven" systems which print a list of options
+and expect you to type a number or letter (like "y" for yes, "n" for
+no).  Sometimes answering a question with a carriage return gets you a
+default answer.  The default is often indicated in brackets:
+
+  Do you really want to quit [n]?
+
+Hitting return here will not quit.
+
+7.  (delete key) If you make a typing mistake, there is a key in the
+upper righthand corner labelled "del", "delete", "backspace", or with a
+backwards arrow or "x" on it that will erase what you typed.
+
+8.  (logging on) If you see a message like this:
+
+  Hello.  Welcome to FUBAR system.  Authorized persons only.
+
+  Username: xxx
+  Password:
+
+then the computer wants you to give it a username (nickname, handle) and
+type a password.  Type your last name and hit return; then type your
+password and hit return.  If you are sure the system is meant for the
+general public--say it is a donor database run by the Red Cross--try
+obvious names like "redcross", "anonymous", or "public".  If the account
+is meant for general use then:  (1) no password will be required, or (2)
+any password at all will work, or (3) the password will be something
+easy like "redcross" (again) or "donor" or "guest".
+
+9.  (system prompts and help) If the computer prints a funny symbol
+(called a prompt--often it is a dollar sign, percent sign, question
+mark, right angle bracket or some such) and sits there blinking at you,
+it is waiting for a command.  Try "help" or "?" to find out what is
+possible.  Or try "man intro" (UNIX systems only) to read the online
+manual.  There might be a help key or help command on a menu.
+
+10.  (text buffers)  At some point you may be composing a message.  You
+type the message, of course.  You may or may not have to type "return"
+at the end of each line--experiment with this.  You can erase any
+mistakes with the delete key.  See if the cursor (blinking marker that
+marks where you type) can be moved around with arrow keys or a mouse.
+If there is a mouse, you can select text by "dragging" across it (hold
+down button, move mouse, release mouse).  Once selected a large block of
+text can be deleted with the delete key or moved by issuing the "cut"
+command (look for a function key or command on the "edit" menu) and then
+the "paste" command.
+
+11.  (usernames) if you need to know someone's username, try their last
+name (goodwin) , first initial or both initials and last name (jgoodwin,
+jegoodwin), or all three initials (jeg).  Be warned that many sites add
+numbers (goodwin21), use serial numbers (g21135), or use cutesy aliases
+(thumper).  Usernames are usually all lowercase.
+
+12.  (case sensitivity)  if nothing seems to work the way it is supposed
+to check your caps lock.  Most systems are either case-sensitive (like
+UNIX) or automatically translate commands to all upper case.  Thus
+"help", "HELP", and "Help" are either three differnt commands or one and
+the same.
+
+13.  (saving your work)  With most programs, whatever you do or change
+is not permanent unless you write the changes to disk.  You "save" your
+work by selecting "save" from the "file" menu or some other method.
+Often there are two commands for exiting--one that saves your work and
+one that discards it.  For example, "exit" might save changes and "quit"
+ignore them.  If your program does not have an "autosave" feature--and
+even if it does--you should save your work every 15 minutes at least.
+
+14.  (quitting or logging off)  After you have properly saved your work
+you can quit your program or system by finding the quit command (look at
+the bottom of either the first or last menu on the menu bar), or by
+typing "quit", "exit", "q", "x", "bye", "lo", "logout", "logoff", or
+something similar.
+
+
+
+APPENDIX B.  USING A MODEM
+
+Using a modem (modulator-demodulator) is relatively easy if you follow
+the instructions that come with the modem and the communications
+software.  These instructions cannot
+
+  BUYING A MODEM:  BASIC FEATURES
+
+You should choose a "Hayes-compatible" modem.  This is the industry
+standard and works with most software.  The modem is a small computer
+that responds to "AT" commands, commands sent by your software beginning
+with "AT" for "Attention Modem".  The most common are "ATDT 1 800 555
+1212".  This tells your modem
+
+So make sure the modem you buy responds to AT commands.  A 2400 baud
+Hayes-compatible modem will cost about $50 by mail-order.  You should
+consider buying a FAX modem ($350), however.  The more expensive modem
+is faster, has more features, and can turn your computer into a FAX
+machine.  Your connection to the outside world will never be any better
+than your modem allows, so buy a good one.
+
+The FAXes can be displayed on your computer screen.  You only print them
+if you want to, on an ordinary laser printer.  The other features of a
+top of the line FAX modem include:
+
+  (1) Up to 14,440 baud rate (7 times faster than 2400 baud)
+
+  (2) Data compression (V.32bis is the name of the standard)
+
+  (3) Error correction (V.42bis is the name of the standard)
+
+  HOOKING UP THE MODEM
+
+The modem goes between your computers serial (one-bit-at-a-time)
+communications port and your telephone line.  Your modem probably
+included the right kind of cable.  If not, check the manual or call the
+dealer who sold you the modem.
+
+The modem to phone connection will use standard telephone cable with
+modular jacks on either end.  You unplug your phone from the wall socket
+and plug in your modem instead.  If you want to leave your phone,
+answering machine, fax machine, and so on plugged in, you can use dual
+plugs that allow one or more cord to be plugged into the same socket.
+Look on the bottom of each piece of equipment (including the modem).
+There should be a little sticker that tells how many ringer equivalents
+the equipment is worth.  Don't exceed eight on any one phone line.
+
+You can also buy inexpensive boxes that will let you use a single phone
+line for faxes and for voice.
+
+WARNING:  usually your modem--and any other "peripherals"--should be
+wired to your computer before you turn the computer on.  This is so the
+computer can look for the modem and confirm that it is hooked up.  Check
+your computer's and modem's manual for precise instructions on hooking
+up a modem to your computer.
+
+If you are connecting the computer to an office phone that is part of a
+Private Branch Exchange (PBX) then ...
+
+  MAKING A CONNECTION
+
+Usually you call another computer by dialing its phone number.  Either
+you type an AT command like "ATDT 1 800 555 1212" or your software does
+this for you when you choose a "connect" command or something like that
+from a menu.
+
+Before you get the modem's attention you need to set your software to
+the proper "modem settings".  These settings are listed in literature
+about the service.  As a last resort call customer service for the
+computer you are trying to connect to.  Or else you can try different
+settings until you find one the lets you connect.  The most common modem
+settings today are either 1200 or 2400 baud and "8N1", which means 8
+bits, no parity, and one stop bit.
+
+The most important settings are:
+
+The BAUD RATE (300, 1200, and 2400 are typical low speed connections,
+with 2400 being the most common one for modern equipment; 9600 or 14400
+are
+
+Flow control ON or OFF (often labelled XON/XOFF).  If your modem is
+going to talk with your computer at a faster rate than over the phone
+line, then flow control is essential.  Be sure that your software
+understands that the phone line speed is different from the computer-to-
+modem speed.  The phone line can't go any faster than 14,440 Baud.  Your
+computer can do four times that or more.
+
+Full or half duplex connection (LOCAL ECHO ON or OFF).  In a half duplex
+connection the two computers take turns communicating on the same
+channel.  This means that your computer will be the one to "ECHO" what
+*you* type on your screen (local echo ON), since it doesn't make sense
+say something, have the other computer read it, then send it back, just
+so you can see what you type.  In a full duplex connection both
+computers can talk at once, so local echo is OFF.
+
+7 or 8 bits per character.  Many computer systems use the last seven
+bits of each byte to denote a character (up to 128 characters).  The
+eighth bit is used for parity, flow control, or some other important
+signal.  Nowadays 8 bits is more common.
+
+Even, Odd, or No PARITY.  One way to check for errors in transmission is
+to tag each byte with a bit that means "even or odd", the parity bit.
+If a bit is transmitted incorrectly, then the parity bit won't agree
+with byte sent and the software can ask for that byte or block of data
+again.  NO parity is the most common setting today, however.
+
+0,1, or 2 STOP BITS. 1 stop bit is the usual setting these days.
+
+If your modem has its speaker on, you will here a dial tone, then the
+modem will dial, and then there will be a lot of squeals as the two
+computers "negotiate" about the transmission.  If you are lucky, both
+computers will establish a "carrier" tone or hum that is then modulated
+to send data.  At this point most modems turn of the speaker, but a
+"carrier detect" light should be on.  As long as you have the carrier
+you have the connection.  The carrier is present--to your modem, at
+least--even if you tell your software to "go off line" for a while.  If
+you hang up, however, the carrier is dropped.
+
+Now that you have a carrier, whatever you type is sent to the other
+computer (and the "transmit" light flashes), and you can receive data as
+well.  Pay attention to any banner the service you are connecting to may
+print.  In particular you need to know what "escape character" your
+system recognizes.  Typing this character or sequence of characters
+allows you to stop tranmitting everything and give your own system a
+command.  This is especially important if are transferring a file and
+have to "escape back to your own system" to tell it what to do with the
+incoming data.
+
+  FIRST STEPS ON A NEW SYSTEM
+
+  Many services let you sign up by connecting your computer to a
+
+  TRANSFERRING DATA
+
+  Getting data from one computer to another is a matter of running *two*
+programs--one on each computer.  These programs use a common protocol,
+or procedure, to communicate.  The most common protocols are XMODEM,
+YMODEM, ZMODEM, and KERMIT (for UNIX systems and some others).  The
+steps involved--using KERMIT as an example--are:
+
+  1. Run KERMIT on the sending machine
+
+  2. Escape to the receiving machine
+
+  3. Run KERMIT on the recieving machine
+
+  4. Wait for the transfer to finish.
+
+You will have to read your software manual for more specific
+instructions, unless you have a direct internet connection or SLIP
+connection.  In these cases you can issue a File Transfer Protocol (FTP)
+command to whichever computer and the details at the other end are
+automatically taken care of.  See Chapter X for more detail on
+transferring data.
+
+  DISCONNECTING
+
+You will want to use whatever "logoff" procedure the remote computer
+wants.  If your manual or other literature doesn't tell you, and you
+can't get any information by trying "help" or "?", try the following
+commands:  "logout", "logoff", "lo", "bye", "exit", "quit".
+
+If all else fails you can drop the carrier using the "hangup" command
+(or escape back to your system and send "ATH" to your modem--attention,
+hangup).
+
+As a last resort pull the plug and your telephone company will
+disconnect you, then exit your software and turn off your computer.
+
+  You may have to get your modem's attention by typing the "escape
+sequence", which varies from modem to modem or connection to connection.
+
+
+
+<Appendix C>  Technical Details of Internet Connections
+
+[This chapter is under construction]
+
+
+
+<Appendix D>  Just enough UNIX
+
+Since the UNIX operating system may be unfamiliar to many of you, and
+since many workstations on the net use UNIX, it may help some readers to
+summarize some of the peculiarities of UNIX.  One day you may be logged
+on to a UNIX machine.  Nowadays, like many operating systems, UNIX hides
+behind a graphical user interface like the X Windows system.
+Occasionally--and networking is unfortunately one of those occasions--
+its quirks like file-naming and directory hierarchy peek through.
+
+This Appendix gives you just enough UNIX to avoid some pitfalls and
+issue commands needed to transfer files.  The basic commands you need to
+know for any system are how to display directories and list the contents
+of files, how to name files, and how to get help about the system.  UNIX
+commands are just as quirky as MS-DOS, VMS, RSX, VM, or any other
+operating system that uses a command language.  Fortunately, they are no
+harder.
+
+
+<Section D.1>  Basic Commands for Getting Around
+
+ls          : list current directory
+
+ls -l       : longer listing, with file length in bytes
+
+cd mydir    : move down one level in the hierarchy to directory "mydir"
+
+cd ..       : move up one directory in the hierarchy
+
+
+<Section D.2>  Hierarchical File System
+
+Files in UNIX are arranged in a hierarchy or tree structure.
+
+
+<Appendix E>  The Top 10 Things to Get by E-mail
+
+This Appendix may be distributed separately from the rest of this
+course.
+
+----------(cut here)----------
+THE FREELORE PROJECT's LIST OF THE TOP 10 THINGS TO GET BY E-MAIL
+
+Copyright (c) 1993 by John E. Goodwin.  All Rights Reserved.
+You may make and distribute verbatim copies of this document for non-
+commercial purposes provided this notice is preserved on all such
+copies.
+
+This is a list of ten fun and useful things you can get by electronic
+mail.  In all cases your request is handled by an automated system that
+sends the materials by return mail.  Systems change frequently, so some
+commands may be out of date.  All were tested and working as of mid-June
+1993.
+
+A typical, old-fashioned E-mail system works like this
+
+     % mail     <type the command to enter the E-mail program>
+
+     mail> send  <or type "help" to find out what commands work>
+
+     To: president@whitehouse.gov       <This is an Internet address
+                                        --may look different on your
+                                        system>
+     Cc: vice.president@whitehouse.gov
+
+     Subj: Your Stance on Nuclear Power
+
+     Enter Message.  When Done, hit Control-Z, Control-C to quit:
+     Dear Mr. President:
+
+     I was disappointed to see that . . . <etc., until you type CTRL-Z>
+
+     Message sent 23:05:44 14-JUN-1993.
+
+     mail> exit
+
+Modern automated mailservers expect your command in the body of the
+message.  But some old-fashioned ones expect it as part of the *subject*
+line!  I always tell if this is the case.
+
+In most cases you will get a response in a few minutes.  For systems
+that wait to off-peak hours to send responses you may have to wait a
+day.
+
+Here are some more hints:
+
+  o  Most automated systems respond to the single command "help".
+
+  o  People change their directory systems around everyday it seems.  If
+the commands given don't work, try to locate what you want by Archie
+(see below) before requesting it by mail.
+
+  o  The Double quotes around some commands aren't part of the command
+itself (so don't type them!).
+
+With that advice, here's the list. . . .
+
+
+  [10]  The CPET (Catalog of Projects in Electronic Text) supplies
+information about E-text archives for scholars.  They have an online
+database.  For detailed instructions, send the message:
+
+     connect guvax.acc.georgetown.edu
+     cd cpet_projects_in_electronic_text
+     get cpet_user_guide.txt
+
+to "ftpmail@decwrl.dec.com".  [This is a service that provides Internet
+File Transfer Protocol (FTP) by E-mail.  See next entry].
+
+     Anonymous FTP reference for CPET user's guide:
+
+"guvax.acc.georgetown.edu:/cpet_projects_in_electronic_text/cpet_user_gu
+ide.txt"
+
+
+  [9]  Instructions for using Archie by Mail and FTP by Mail.
+
+Archie is a lookup service for finding software or documents in
+Anonymous FTP archives on the Internet.  Anonymous FTP is a method for
+making materials on certain computers available to the public.  Anyone
+is allowed to log in with the username "anonymous" You give your real
+name as the password.  Anonymous FTP is not available if you just have
+E-mail, not a full Internet connection.
+
+To help E-mail users access Anonymous FTP archives, an FTP by Mail
+server has been set up at decwrl.dec.com.  It will send you materials
+you find using Archie.  Binary files (pictures and programs) are encoded
+as text files using the programs "btoa" or "uuencode".  You need these
+freeware programs if you want to get anything besides text files, i.e.
+ASCII.
+
+A.  To get started with Archie, send the message "help" to
+"archie@archie.rutgers.edu".  There are many Archie servers around the
+world.  Any Archie will give you a complete list.
+
+B.  To get started with FTP Mail, send the message
+
+     help
+     quit
+
+to "ftpmail@decwrl.dec.com".
+
+
+  [8]  A list of book-length Public Domain texts Produced by Project
+Gutenberg.
+
+You may either get these texts from the Almanac server at "oes.orst.edu"
+or direct from Project Gutenberg at "mrcnext.cso.uiuc.edu".
+
+Send message "help" to "almanac@oes.orst.edu".  After reading the guide,
+send the message "send gutenberg catalog".  To get an E-text by mail
+(e.g. _Alice in Wonderland_), send the message:
+
+     send etext alice
+
+To see the contents of project gutenberg archivesj, send the message
+
+     connect mrcnext.cso.uiuc.edu
+     cd etext/articles
+     get index
+     quit
+
+to "ftpmail@decwrl.dec.com".
+
+To get the actual texts,
+
+     connect mrcnext.cso.uiuc.edu
+     cd etext/etext93
+     get
+     quit
+
+Anonymous FTP Archive references:
+
+     oes.orst.edu:/pub/data/etext
+
+     mrcnext.cso.uiuc.edu:/etext/articles (general info)
+
+     mrcnext.cso.uiuc.edu:/etext/etext93 (the texts)
+
+
+  [7]  A list of E-mail mailing lists, posted to the "Frequently Asked
+Questions" or FAQ part of the Usenet newsgroups.
+
+A typical mailing list works like this:  to join, say, a mailing list on
+politics, you send the request "subscribe" to "politics-
+request@whitehouse.gov".  Thereafter, any message sent to
+"politics@whitehouse.gov" will send you message to all members of the
+list.  You get all the postings from other members as well [The
+Whitehouse list on politics is a fake example].
+
+Aside:  Usenet newsgroup FAQ's are archived at "rtfm.mit.edu".  They
+cover every conceivable subject (but are especially good with
+computers).  To access the archive by E-mail, send the message "help" to
+"mail-server@rtfm.mit.edu".  For an index of materials available, send
+the message "index".
+
+Here are the specific commands for getting the Mailing Lists:
+
+     send mail/mailing-lists/part1
+     send mail/mailing-lists/part2
+     send mail/mailing-lists/part3
+     send mail/mailing-lists/part4
+     send mail/mailing-lists/part5
+
+to "mail-server@rtfm.mit.edu".
+
+Other good publications in the same location:
+
+  A Guide to Social Newsgroups and Mailing_Lists:
+
+     send social-newsgroups/part1
+
+  List of Periodic Informational Postings:
+
+     send periodic-postings/part1
+
+(six parts).
+
+For a more complete list of FAQs, send the commands:
+
+     send usenet/news.answers/index
+     send usenet/news.announce.newusers/index
+
+
+Anonymous FTP archive reference:
+
+     rtfm.mit.edu:/pub/usenet-by-group/news.answers; and
+     rtfm.mit.edu:/pub/usenet-by-group/news.announce.newusers.
+
+Also posted as an FAQs to the Usenet newsgroup news.answers.
+
+
+  [6]  LISTSERVERS are the best thing going for persons with E-mail but
+without full Internet service.  You can send mail to an entire list and
+get a digest of "articles" posted on a given day.  Lists are espcecially
+good for anyone with an interest in the Humanities.  A list of all
+listservers known to any one listserver can be obtained by sending a
+message to that listserver (see below).
+
+Send the message "help" to any listserver address, e.g.
+
+      "listserv@brownvm.brown.edu"
+
+to get started.
+
+The listserver at Brown does not respond to the global command (but is
+worthwhile anyway).  Try sending the command "lists global" to one of
+the other listservers like "listserv@auvm.american.edu".
+
+For lists with lots of traffic you should consider the "set <listname>
+digest" command to get *one* mail message a day with a compendium of
+articles.
+
+
+  [5]  Automatically supplied information about PSI's Internet service:
+
+     Send any message at all to address "all-info@psi.com".  There are
+lots of other files on their service available instantly.  E.g., for
+information on their version of telnet, send any message to "gds-
+info@psi.com"; for their version of FTP, any message to "psilink-
+info@psi.com".
+
+
+  [4]  Scott Yanoff's list of Internet Resources.  At last count, there
+were 75 free things to do on the Internet.
+
+Send the message:
+
+     send usenet/news.answers/internet-services/faq
+     send usenet/news.answers/internet-services/list
+
+to "mail-server@rtfm.mit.edu".
+
+Another method is to request the materials by delayed FTP with the
+message:
+
+     connect csd4.csd.uwm.edu
+     cd pub
+     get inet.services.txt
+     quit
+
+to "ftpmail@decwrl.dec.com".
+
+It is also worth adding the line "get internetwork-mail-guide" to the
+above request for a file on send E-mail between any two E-mail systems
+(file is 22k).
+
+Anonymous FTP archive references:
+
+     csd4.csd.uwm.edu:/pub/inet.services.txt
+
+     rtfm.mit.edu:/pub/usenet-by-group/news.anwsers/internet-services
+
+
+  [3]  SURFING THE INTERNET, by librarian Jean Armour Polly.  This must-
+have publication is still the best basic orientation to the Internet.
+The nearest thing to the "how to use the library card catalogue" speech
+that opened up that other world for us when we were kids.
+
+Send the message
+
+     connect nysernet.org
+     cd pub/resources/guides
+     get surfing.2.0.3.txt     <that's a zero not an "oh">
+     quit
+
+to "ftpmail@decwrl.dec.com".  Other interesting files in the same
+directory are:
+
+     ftp.list
+     whatis.internet
+     new.user.guide.v2.2.txt
+     speakers_on_internet.txt
+
+Anonymous FTP archive reference:
+
+     nysernet.org:/pub/resources/guides
+
+
+  [2]  The NIXPUB listing of public access UNIX systems (so you can read
+Usenet news!):
+
+Send the message
+
+     connect vfl.paramax.com
+     cd pub/nixpub
+     get long
+     quit
+
+to "ftpmail@decwrl.dec.com".
+
+
+Anonymous FTP archive reference:
+
+     vfl.paramax.com:pub/nixpub/long
+
+It is also posted as a FAQ (Frequently Asked Questions) to the Usenet
+newsgroup alt.bbs.
+
+
+And the critics' choice is . . .
+
+  [1]  The PDIAL listing, a listing of dialup methods of connecting to
+the Internet for the general public.
+
+     Send a message to "info-deli-server@netcom.com" with the command
+"send pdial" in the *subject* line.
+
+Alternatively, send the message "send usenet/news.answers/pdial" to
+"mail-server@rtfm.mit.edu".
+----------
+
+                        +    +    +
+
+"What this country needs is a good 50 cent education."
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Email 101, by John Goodwin
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EMAIL 101 ***
+
+***** This file should be named 75.txt or 75.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/7/75/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

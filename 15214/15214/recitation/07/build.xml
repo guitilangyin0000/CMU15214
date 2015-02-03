@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<project name="rec07" default="run" basedir=".">
+  <property name="build.dir" value="build" />
+  <property name="main.build.dir" value="${build.dir}/main" />
+  <property name="main.src.dir" value="src" />
+  <property name="test.build.dir" value="${build.dir}/test" />
+  <property name="test.src.dir" value="test" />
+  <property name="deploy.dir" value="deploy" />
+
+  <!-- Fully-qualified name of main class -->
+  <property name="main.class" value="edu.cmu.cs.cs214.rec07.gui.QuoteUI" />
+
+  <path id="classpath.base">
+  </path>
+
+  <path id="classpath.test">
+    <pathelement location="lib/junit-4.11.jar" />
+    <pathelement location="lib/hamcrest-core-1.3.jar" />
+    <pathelement location="${main.build.dir}"/>
+    <path refid="classpath.base" />
+  </path>
+
+  <target name="init">
+    <!-- Create the time stamp -->
+    <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+    <mkdir dir="${build.dir}"/>
+  </target>
+
+  <target name="compile" depends="init" description="compile the source">
+    <mkdir dir="${main.build.dir}"/>
+    <javac srcdir="${main.src.dir}" destdir="${main.build.dir}" includeantruntime="false">
+      <classpath refid="classpath.base"/>
+    </javac>
+    <echo message="build done" />
+  </target>
+
+  <target name="dist" depends="compile" description="generate the distribution">
+    <!-- Create the distribution directory -->
+    <mkdir dir="${deploy.dir}"/>
+    <!-- Put everything in ${build} into the ${ant.project.name}-${DSTAMP}.jar file -->
+    <jar jarfile="${deploy.dir}/${ant.project.name}-${DSTAMP}.jar" basedir="${main.build.dir}" />
+  </target>
+
+  <target name="run" depends="compile" description="run the code">
+    <java fork="true" classname="${main.class}">
+        <classpath refid="classpath.test"/>
+    </java>
+  </target>
+
+  <!-- Delete all build files -->
+  <!-- To run this: use "ant clean" -->
+  <target name="clean">
+    <delete dir="${build.dir}" />
+    <delete dir="${deploy.dir}" />
+    <echo message="clean done" />
+  </target>
+</project>

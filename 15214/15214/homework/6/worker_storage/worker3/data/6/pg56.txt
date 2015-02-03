@@ -1,0 +1,1026 @@
+﻿The Project Gutenberg EBook of NREN for All: Insurmountable Opportunity, by 
+Jean Armour Polly
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: NREN for All: Insurmountable Opportunity
+
+Author: Jean Armour Polly
+
+Posting Date: December 23, 2011 [EBook #56]
+Release Date: March, 1993
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NREN FOR ALL ***
+
+
+
+
+
+
+
+
+
+
+
+
+NREN for All:
+
+Insurmountable Opportunity
+
+c. 1993 Jean Armour Polly
+Manager of Network Development and User Training
+NYSERNet, Inc.
+jpolly@nysernet.org
+
+This was originally published in the February 1, 1993 issue of
+Library Journal (volume 118, n. 2, pp  38-41).
+It may be freely reprinted for educational use, please let me know if you
+are redistributing it, I like to know if it's useful and where it's been.
+Please do not sell it, and keep this message intact.
+
+
+When Senator Al Gore was evangelizing support for his visionary
+National Research and Education Network bill, he often pointed to
+the many benefits of a high-speed, multi-lane, multi-level data
+superhighway. Some of these included:
+
+-- collaborating research teams, physically distant from each other,
+working on shared projects via high speed computer networks.
+Some of these "grand challenges" might model global environmental
+change, or new therapeutic drug research, or the design of a new
+airplane for inexpensive consumer air travel.
+
+-- a scientist or engineer might design a product, which could be
+instantly communicated to a manufacturing plant, whose robotic
+machine could turn the drawing-board product into reality. One example
+of this is the capability to digitally measure a new recruit for an
+army uniform, transmit the information to a clothing manufacturer,
+and take delivery of a custom-tailored uniform the next day.
+
+-- access to digital libraries of information, both textual and graphic.
+Besides hundreds of online public access catalogs, and full text
+documents, color illustrations of photographic quality, full motion
+videos and digital audio will also be available over the network.
+
+In his many articles and speeches touting the bill, Gore often used
+an example of a little girl, living in a rural area, at work on a school
+project. Was she information-poor due to her physical location, far
+from the resources of large cities? No-- the National Research and
+Education Network would give her the capability to dial into the
+Library of Congress-- to collect information on dinosaurs.
+
+Now that the NREN bill has been signed into law (12/91), and
+committees are being formed, and policies are being made, I'm still
+thinking about that little girl, and her parents, for that matter. In
+fact I've got some "Grand Questions" to pose.
+
+
+1- How will we get access?
+
+The Internet has been called the "Interim NREN", since it's what we
+have in place now.
+
+I'm wondering how the family is going to get to the Internet "dial tone",
+let alone the NREN, especially since they live in a rural area.
+The information superhighway may be miles from their home, and
+it may be an expensive long-distance call to the "entrance ramp".
+
+Or, the superhighway may run right through their front yard, but
+they can't make use of it because they have no computer, no modem,
+and no phone line to make the connection. What good is a superhighway
+if all you've got is a tricycle?
+
+
+2- What will they be able to gain access to,
+   and will their privacy be protected?
+
+Beyond the infrastructure issues, I'm concerned about what kind of
+things will be available for them once they do get connected,
+how the resources will be arranged, and how they will learn to use
+these tools to advantage.  Beyond that, how authoritative is the
+information in the digital collection, and how do we know for sure
+it came from a legitimate source? How confidential will their
+information searches be, and how will it be safeguarded?
+
+
+3- Who will get access?
+
+I'm concerned that even if the infrastructure and resource problems
+are resolved, that little girl still won't be allowed access, because a
+lot of folks don't think the Internet is a safe place for
+unaccompanied minors.
+
+
+4- Does the family have any electronic rights?
+   Electronic responsibilities?
+   Are dinosaurs and a grade-school project too trivial for NREN?
+
+Some people think the NREN should be reserved for scientists
+working on "Grand Challenges", not ordinary ones. Who will
+decide what constitutes "acceptable use"?
+
+
+5- What is the future of the local public library?
+
+Worse yet, I'm worried that the reason they are phoning the Library
+of Congress in the first place is that their local public library has
+shut its doors, sold off the book stock, and dismissed the librarian.
+What can public libraries do to avoid that future?
+
+Brief Background: The Internet Today
+
+Computers all over the world are linked by high speed
+telecommunications lines. On the other side of their
+screens are people of all races and nationalities who
+are able to exchange ideas quickly through this network.
+
+This "brain to brain" interface brings both delight and despair, as
+evidenced by the following True Tales from the Internet:
+
+-- Children all over the world participate in class collaborations,
+sharing holiday customs, local food prices, proverbs, acid rain
+measurements, and surveys such as a recent one from a fifth
+grade class in Argentina who wanted to know (among other things)
+"Can you wear jeans to school?".
+
+-- During the Soviet coup in the summer of 1991, hundreds read
+eyewitness accounts of developments posted to the net by computer
+users in Moscow and other Soviet cities with network connectivity.
+A literal hush fell over this side of the network after a plea came
+across from the Soviet side. We appreciate your messages of
+encouragement and offers of help, it said, but please save the
+bandwidth for our outgoing reports!
+
+- Proliferation of discussion groups on the Internet means one can
+find a niche to discuss everything from cats to Camelot, from
+library administration to lovers of mysteries, from Monty Python
+to Medieval History.
+
+-- Predictably, Elvis has been sighted on the Internet.
+
+Besides electronic mail, full text resources may be downloaded
+from many Internet host computers. Some of these are religious
+materials, such as the Bible, and the Koran, others are the complete
+works of Shakespeare, Peter Pan, and Far From the Madding Crowd.
+
+Searchable resources include lyrics from popular songs, chord
+tablature for guitar, recipes, news articles, government information,
+Supreme Court Opinions, census data, current and historical weather
+information, dictionaries, thesauri, the CIA World Fact Book,
+and much more.
+
+Hundreds of library OPACS may be searched, and those with
+accounts set up at CARL may use UnCover to find articles of
+interest, which then may be faxed on demand.
+
+The richness of the Internet changes on a daily basis as more data
+resources, computer resources, and human resources join those
+already active on the net.
+
+But, back to that little girl.
+
+How will she get access?
+
+She'll need a plain old telephone line, a modem, a computer, and
+some communications software. Will her family be able to afford it?
+If not, will she be able to dial in from her school? Her Post Office?
+The local feed store?  A kiosk at K-Mart?
+
+At the American Library Association's 1992 convention in San
+Francisco, Gloria Steinem said "the public library is the last refuge
+of those without modems." I'm sure she meant that the library will
+act as information provider for those unable to get their
+information using a home computer's telecommunications
+connections. But it could be taken another way. Couldn't the public
+library act as electronic information access centers, providing public
+modems and telecommunications alongside the books and videos?
+
+Why the Public Library is a good place for NREN access
+
+The public library is an institution based on long-standing beliefs in
+intellectual freedom and the individual's right to know. Let's revisit
+ALA's LIBRARY BILL OF RIGHTS, Adopted June 18, 1948; amended February
+2, 1961, and January 23, 1980, by the ALA Council.
+
+The American Library Association affirms that all libraries are
+forums for information and ideas, and that the following basic
+policies should guide their services.
+
+      1.  Books and other library resources should be provided for the
+interest, information, and enlightenment of all people of the
+community the library serves.  Materials should not be excluded
+because of the origin, background, or views of those contributing to
+their creation.
+
+No problem here. The Internet's resources are as diverse as their
+creators, from nations all over the world. Every community can
+find something of interest on the Internet.
+
+      2.  Libraries should provide materials and information
+presenting all points of view on current and historical issues.
+Materials should not be proscribed or removed because of partisan
+or doctrinal disapproval.
+
+      3.  Libraries should challenge censorship in the fulfillment of
+their responsibility to provide information and enlightenment.
+
+      4.  Libraries should cooperate with all persons and groups
+concerned with resisting abridgment of free expression and free
+access to ideas.
+
+Again, global electronic communication allows discussion and
+debate in an instant electronic forum. There is no better
+"reality check" than this.
+
+      5.  A person's right to use a library should not be denied or
+abridged because of origin, age, background, or views.
+
+In a public library, the little girl won't be barred from using the
+Internet because of her age. The ALA interpretation of the above
+right states:
+"Librarians and governing bodies should not resort to age
+restrictions on access to library resources in an effort to avoid actual
+or anticipated objections from parents or anyone else.  The mission,
+goals, and objectives of libraries do not authorize librarians or
+governing bodies to assume, abrogate, or overrule the rights and
+responsibilities of parents or legal guardians.  Librarians and
+governing bodies should maintain that parents - and only parents
+- have the right and the responsibility to restrict the access
+of their children - and only their children - to library resources.
+Parents or legal guardians who do not want their children to have
+access to certain library services, materials or facilities, should so
+advise their children. Librarians and governing bodies cannot
+assume the role of parents or the functions of parental authority in
+the private relationship between parent and child.  Librarians and
+governing bodies have a public and professional obligation to
+provide equal access to all library resources for all library users."
+
+      6.  Libraries which make exhibit spaces and meeting rooms
+available to the public they serve should make such facilities
+available on an equitable basis, regardless of the beliefs or
+affiliations of individuals or groups requesting their use."
+
+The Internet provides the equivalent of electronic meeting rooms
+and virtual exhibit spaces. Public libraries will offer access to all
+comers, regardless of their status.
+
+Further, as part of the Interpretation of the Library Bill of Rights,
+this statement appears:
+"The U.S. Supreme Court has recognized that `the right to receive
+ideas follows ineluctably from the sender's First Amendment right
+to send them. . . . More importantly, the right to receive ideas is a
+necessary predicate to the recipient's meaningful exercise of his
+own rights such as speech, press, and political freedom' Board of
+Education, Island Trees Union Free School District No. 26 v. Pico,
+457 U.S. 853, 866-67 (1982) (plurality opinion)."
+
+Clearly, reception and sending of ideas is a First Amendment issue.
+Oral, written, and electronic speech must be equally protected so
+that democracy may flourish.
+
+Public libraries also provide "free" services, though in fact the costs
+are just deferred. Taxes, state aid derived from taxes, federal aid
+derived from taxes, and private funds all pay for the "free" services
+at public libraries. Public libraries may be thought of as
+Information Management Organizations (IMO's), similar to Health
+Management Organizations, where patrons/patients contribute
+before they need information/health care, so that when they do
+need it, librarians/doctors are available to render aid.
+
+Why NREN in the Public Library is a bad idea
+
+On the surface, the public library looks like an excellent place to
+drop Internet/NREN connectivity. Libraries are veritable temples
+of learning, intellectual freedom, and confidentiality.
+
+However, most public libraries lack what computer experts call
+infrastructure. If there are computers, they may be out of date. Staff
+may not have had time to learn to operate them, and the computers
+may literally be collecting dust.
+
+There may be no modems, no phone line to share, no staff with
+time to learn about the Internet and its many resources.  Money to
+update equipment, hire staff, and buy training is out of the
+question. Public libraries face slashed budgets, staff layoffs,
+reduced hours, and cutbacks in services.
+
+Many of these drawbacks are noted in the recent study by Dr.
+Charles R. McClure, called Public Libraries and the
+Internet/NREN: New Challenges, New Opportunities.
+
+Public librarians were surveyed about their attitudes toward NREN
+in interviews and focus groups. According to the study, public
+librarians thought that the public had a "right" to the Internet, and
+its availability in their libraries would provide a safety net for the
+electronic-poor.
+
+On the other hand they felt that they could not commit resources to
+this initiative until they knew better what the costs were and the
+benefits might be. They longed for someone else to create a pilot
+project to demonstrate the Internet's usefulness, or lack thereof,
+for public library users.
+
+The study describes several scenarios for public libraries as the
+NREN evolves. Some may simply choose to ignore the sweeping
+technological changes in information transfer. They may continue
+to exist by purveying high-demand items and traditional services,
+but they may find it increasingly difficult to maintain funding
+levels as the rest of the world looks elsewhere for their information
+and reference needs. The public library may find itself servicing
+only the information disenfranchised, while the rest of the
+community finds, and pays for, other solutions.
+
+ As the study explains:
+
+"While embracing and exploiting networked information and services,
+[successfully transitioned libraries] also maintain high visibility
+and high demand traditional services. But resources will be reallocated
+from collections and less-visible services to support their involvement
+in the network. All services will be more client-centered and demand-based,
+and the library will consciously seek opportunities to deliver new types
+of information resources and services electronically."
+
+"In this scenario, the public library will develop and mount services
+over the NREN, provide for public access to the NREN, and will
+compete successfully against other information providers. In its
+networked role, the library can serve as a central point of contact as
+an electronic navigator and intermediary in linking individuals to
+electronic information resources- regardless of type or physical
+location. The public library in this second scenario will define a
+future for itself in the NREN and develop a strategic plan to insure
+its successful participation as an information provider in the
+networked environment."
+
+
+What Should Happen
+
+Senator Gore has proposed what has been variously called Son of
+NREN or Gore II, which should help address many of these
+infrastructure problems.
+
+Unfortunately, the Bill was not passed and the closing of the last
+Congress. There is hope, however, that it will be reintroduced this
+Spring.
+
+Specifically, Gore's bill would have ensured that the technology
+developed by the High-Performance Computing Act of 1991 is
+applied widely in K-12 education, libraries, health care and
+industry, particularly manufacturing.  It would have authorized a
+total of $1.15 billion over the next five years.
+
+According to a press release from Senator Gore's office,
+
+"The Information Infrastructure and Technology Act charges the
+White House Office of Science and Technology Policy (OSTP) with
+coordinating efforts to develop applications for high-performance
+computing networking and assigns specific responsibilities to the
+National Science Foundation, the National Aeronautics and Space
+Agency, the National Institute of Standards and Technology, and
+the National Institutes of Health. It would expand the role of
+OSTP in overseeing federal efforts to disseminate scientific and
+technical information."
+
+"The bill provides funding to both NSF and NASA to develop
+technology for 'digital libraries'-- huge data bases that store text,
+imagery, video, and sound and are accessible over computer
+networks like NSFNET.  The bill also funds development of
+prototype 'digital libraries' around the country."
+
+The public needs NREN because 300 baud used to be fast and low-
+resolution graphics used to be pretty. Now we get impatient
+waiting for fax machines to print out a document from half a
+continent away, when a few years ago we would have been
+content to wait days or weeks for the same article to arrive by mail.
+We are satisfied with technology until it starts to impede our lives
+in some way. We wait impatiently, sure that we spend half our
+lives waiting for printers, and the other half waiting for disk drives.
+Time is a commodity.
+
+I can envision that little girl walking into the public library with the
+following request:
+"I'm doing a school report on the Challenger disaster. I need a video
+clip of the explosion, a sound bite of Richard Feynman explaining
+the O-ring problem, some neat graphics from NASA, oh, and
+maybe some virtual reality mock-ups of the shuttle interior. Can
+you put it all on this floppy disk for me, I know it's only 15 minutes
+before you close but, gee, I had band practice."  This is why
+public libraries need NREN.
+
+We would do well to remember the words of Ranganathan, whose
+basic tenets of good librarianship need just a little updating from
+1931:
+
+"[Information] is for use."
+"Every [bit of information], its user."
+"Every user, [his/her bit of information]."
+"Save the time of the [user]."
+"A [network] is a growing organism."
+
+And so is the public library. A promising future awaits the public
+library that can be proactive rather than reactive to technology.
+Information technology is driving the future, librarians should be at
+the wheel. It is hoped that the new Administration in Washington
+will provide the fuel to get us going.
+
+_______________________________
+SIDEBAR
+-------------------------------------------------------
+Excerpts from S.2937 as introduced July 1, 1992
+102nd Congress
+2nd Session
+              IN THE SENATE OF THE UNITED STATES
+
+     Mr. GORE (for himself, Rockefeller (D-WV), Kerry (D-MA),
+Prestler (R-SD), Riegle (D-MI), Robb (D-VA), Lieberman (D-CT),
+Kerrey (D-NE) and Burns (R-MT)) introduced the following bill;
+which was read twice and referred to the Committee on Commerce,
+Science and Transportation.
+
+                           A BILL
+To expand Federal efforts to develop technologies for applications
+of high-performance computing and high-speed networking, to
+provide for a coordinated Federal program to accelerate development
+and deployment of an advanced information infrastructure,
+and for other purposes.
+
+     Be it enacted by the Senate and House of Representatives
+of the United States of America in Congress assembled,
+
+
+SECTION 1. SHORT TITLE.
+     This Act may be cited as the "Information Infrastructure and
+Technology Act of                                1992".
+
+SEC. 7. APPLICATIONS FOR LIBRARIES.
+          (a) DIGITAL LIBRARIES.--In accordance with the Plan
+developed under section 701 of the National Science and
+Technology Policy, Organization and Priorities Act of 1976 (42
+U.S.C. 6601 et seq.), as added by section 3 of this Act, the National
+Science Foundation, the National Aeronautics and Space
+Administration, the Defense Advanced Research Projects Agency,
+and other appropriate agencies shall develop technologies for
+"digital libraries" of electronic information. Development of digital
+libraries shall include the following:
+               (1) Development of advanced data storage systems
+          capable of storing hundreds of trillions of bits of data
+          and giving thousands of users nearly instantaneous
+          access to that information.
+               (2) Development of high-speed, highly accurate
+          systems for converting printed text, page images,
+          graphics, and photographic images into electronic form.
+               (3) Development of database software capable of
+          quickly searching, filtering, and summarizing large
+          volumes of text, imagery, data, and sound.
+               (4) Encouragement of development and adoption of
+          standards for electronic data.
+               (5) Development of computer technology to
+          categorize and organize electronic information in a
+          variety of formats.
+               (6) Training of database users and librarians in
+          the use of and development of electronic databases.
+               (7) Development of technology for simplifying the
+          utilization of networked databases distributed around
+          the Nation and around the world.
+               (8) Development of visualization technology for
+          quickly browsing large volumes of imagery.
+          (b) DEVELOPMENT OF PROTOTYPES.--The National
+Science
+     Foundation, working with the supercomputer centers it
+     supports, shall develop prototype digital libraries of
+     scientific data available over the Internet and the National
+     Research and Education Network.
+          (c) DEVELOPMENT OF DATABASES OF REMOTE-
+SENSING
+     IMAGES.--The National Aeronautics and Space Administration
+     shall develop databases of software and remote-sensing images
+     to be made available over computer networks like the
+     Internet.
+
+ (d) AUTHORIZATION OF APPROPRIATIONS.--
+              (1) There are authorized to be appropriated to the National
+Science
+Foundation for the purposes of this section, $10,000,000 for  fiscal
+year 1993, $20,000,000 for fiscal year 1994, $30,000,000 for fiscal year
+1995, $40,000,000 for fiscal year 1996, and $50,000,000 for fiscal year
+1997.
+               (2) There are authorized to be appropriated to the National
+Aeronautics and Space Administration for the purposes of this
+section, $10,000,000 for fiscal year 1993, $20,000,000 for fiscal year
+1994, $30,000,000  for fiscal year 1995, $40,000,000 for fiscal year
+1996, and $50,000,000 for fiscal year 1997.
+
+________________________
+SIDEBAR
+ Resources
+___________________________
+
+McClure, Charles R., Joe Ryan, Diana Lauterbach and William E. Moen
+Public Libraries and the INTERNET/NREN: New Challenges, New Opportunities.
+1992. Copies of this 38-page study may be ordered at $15 each from
+the Publication Office, School of Information Studies, Syracuse
+University, Syracuse, NY 13244-4100  315/443-2911.
+
+The U.S. National Commission on Libraries and Information
+Science (NCLIS) has issued a Report to the Office of Science and
+Technology Policy on Library and Information Services' Roles in
+the National Research and Education  Network. The 25-page
+document, released in late November, 1992,  summarizes the results
+of an open forum held in Washington during the previous summer.
+Topics addressed include funding NREN, charging for use,
+commercial  access, protection of intellectual property, and security
+and privacy. The report "focuses on fulfilling the potential for
+extending the services and effectiveness of libraries and
+information services for all Americans  through high-speed
+networks and electronic databases."  A limited number of copies are
+available from NCLIS at 111 18th St., NW, Suite 310, Washington,
+D.C. 20036  202/254-3100.
+
+Grand Challenges 1993: High Performance Computing and
+Communications. The "Teal Book" (because of its color) "provides a
+far-sighted vision for investment in technology but also recognizes
+the importance of human resources  and applications that serve
+major national needs. This É investment will bring both economic
+and social dividends, including advances in education,
+productivity, basic science, and technological innovation."
+Requests for copies of this 68-page document should go to: Federal
+Coordinating Council for Science, Engineering and Technology,
+Committee on Physical, Mathematical, and Engineering Sciences
+c/o National Science Foundation,  Computer and Information Science
+and Engineering Directorate, 1800 G St. NW, Washington, D.C. 20550
+
+Carl Kadie operates an excellent electronic resource of documents
+pertaining to academic freedom, the Library Bill of Rights, and
+similar policy statements. Those with Internet access may use File
+Transfer Protocol (FTP)  to ftp.eff.org (192.88.144.4) Login as
+anonymous, use your network address as the password. The documents
+are in the /pub/academic directory.
+
+Further Reading
+
+Kehoe, Brendan. (1993). Zen and the Art of the Internet: a
+Beginner's Guide (2nd ed.). Englewood Cliffs, NJ: Prentice-Hall.
+The first edition is available for free from many FTP sites. (see
+below) This version has about 30 pages of new material and
+corrects various minor errors in the first edition. Includes the story
+of the Coke Machine on the  Internet. For much of late
+1991 and the first half of 1992, this was the document of choice for
+learning about the Internet. ISBN 0-13-010778-6. Index. $22.00
+
+To ftp Zen: ftp.uu.net [137.39.1.9] in /inet/doc ftp.cs.toronto.edu
+[128.100.3.6] in pub/zen ftp.cs.widener.edu [147.31.254.132] in
+pub/zen as zen-1.0.tar.Z, zen-1.0.dvi, and zen-1.0.PS ftp.sura.net
+[128.167.254.179] in pub/nic as zen-1.0.PS
+
+Krol, Ed. (1992). The Whole Internet User's Guide & Catalog.
+Sebastopol, CA: O'Reilly & Associates.
+Comprehensive guide to how the network works, the domain name
+system, acceptable use, security, and other issues. Chapters on
+telnet/remote login, File Transfer Protocol, and electronic mail
+explain error messages, special  situations, and
+other arcana. Archie, Gopher, NetNews, WAIS, WWW, and
+troubleshooting each enjoy a chapter in this well-written book.
+Appendices contain info on how to get connected in addition to a
+glossary. ISBN 1-56592-025-2. $24.95
+
+LaQuey, Tracy, & Ryer, J. C. (1993). The Internet Companion: a
+Beginner's Guide to Global Networking. Reading, MA: Addison-Wesley.
+Beginning with a foreword by Vice-President Elect Al Gore, this
+book provides an often- humorous explanation of the origins of the
+Internet, acceptable use, basics of electronic mail, netiquette, online
+resources, transferring  information, and finding email addresses.
+The In the Know guide provides background on Internet legends (Elvis
+sightings is one), organizations, security issues, and how to get connected.
+Bibliography. Index. ISBN 0-201-62224-6 $10.95
+
+Polly, Jean Armour. Surfing the Internet 2.0. An enthusiastic tour of
+selected Internet resources, electronic serials, listserv discussion
+groups, service providers, manuals and guides and more. Available
+via anonymous FTP  from NYSERNET.org (192.77.173.2) in the
+directory /pub/resources/guides surfing.2.0.txt.
+
+Tennant, Roy, Ober, J., & Lipow, A. G. (1993). Crossing the Internet
+Threshold: An Instructional Handbook. Berkeley, CA: Library
+Solutions Press.
+A cookbook to run your own Internet training sessions. Real-world examples.
+Foreword by Cliff Lynch. Library Solutions Institute and Press
+2137 Oregon Street Berkeley, CA 94705
+Phone:(510) 841-2636  Fax: (510) 841-2926
+ISBN: 1-882208-01-3 $45.00
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of NREN for All: Insurmountable
+Opportunity, by Jean Armour Polly
+
+*** END OF THIS PROJECT GUTENBERG EBOOK NREN FOR ALL ***
+
+***** This file should be named 56-8.txt or 56-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/56/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

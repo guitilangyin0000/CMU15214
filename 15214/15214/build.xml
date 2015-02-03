@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<project name="214repo" default="test" basedir=".">
+  <target name="test">
+    <parallel threadCount="1" timeout="60000">
+      <sequential>
+        <echo message="==================== BEGIN ANT BUILD =====================" />
+        <subant target="test">
+            <fileset dir="homework/4/" includes="build.xml"/>
+          </subant>
+        <echo message="==================== END HW4 OUTPUT ======================" />
+    </sequential>
+    </parallel>
+  </target>
+</project>
